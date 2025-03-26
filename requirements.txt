@@ -6,3 +6,5 @@ nltk
 scikit-learn
 scipy
 wandb
+torch
+transformers
