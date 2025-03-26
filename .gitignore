@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 __pycache__/
+scicite_preprocessed/*
+experiments/wandb/*
