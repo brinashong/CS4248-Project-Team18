@@ -1,0 +1,2102 @@
+[
+    {
+        "Query": "When lymph node follicular B-cells encounter antigen and T-cell help, this results in germinal center formation (62, 74).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "reported to be 3% by another study, lymphadenopathy was not among the clinical symptoms in the south of Iran.([23]) In previous studies, the lymph node metastasis was not reported in this area.",
+                "Paper ID": "4a254161278510ddcd1e386d71c8e97ca572774f>d81ce287e36056710a5d77ed74245a6cbe89824e",
+                "Relevance": 0
+            },
+            {
+                "Document": "Untreated infection results in the progressive depletion of the helper T-cell population, and the resulting immunodeficiency leads to death by opportunistic infection (Thompson et al. (2012)).",
+                "Paper ID": "957bf5cc5e797dd078bbea21cb6cb17d41026dcc>8b4b51fffb43ad57ac9aa8e5deeac45f6356e015",
+                "Relevance": 0
+            },
+            {
+                "Document": "ankle-link antigen (ALA) with ankle links (Goodyear and Richardson, 1999), and the tip-link antigen (TLA) with tip and kinocilial links (Goodyear and Richardson, 2003).",
+                "Paper ID": "b38a9735318cf86573a8c3bbdd58747527e6d3b1>f05330eb7b43478aca0790b843a4d6ffb3043a94",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "In line with previous studies, both in the U.S. and in Italy (Shaffer et al. 1999; Di Martino et al. 2006; Pallanti et al. 2006) our results indicate that behavioural addictions are quite common among adolescents.",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "The results observed in the study carried out by Hallal et al. (2006), which analyzed 4452 Brazilian adolescents, are in accordance with the analyses of Davison et al. (2008).",
+                "Paper ID": "76fc8262a4b85a40e57f425403d23a39ea488873>9daeced0925b74cec0cb589d2682c6c9060e669b",
+                "Relevance": 1
+            },
+            {
+                "Document": "These results are in line with\nseveral other studies (Mattson 1980; Ayres and MacLean 1987; Kause et al. 1999; van der Wal et al. 2000; Graglia et al. 2001; Lempa et al. 2004; Hansen et al. 2006).",
+                "Paper ID": "a0eafc11bf159d598475a07c98b9cedf30b86cb7>4957147f205941d97c60186eee1b1e4236bbee72",
+                "Relevance": 1
+            },
+            {
+                "Document": "These results are in line with\n several other studies (Mattson 1980; Ayres and MacLean 1987; Kause et al. 1999; van der Wal et al. 2000; Graglia et al. 2001; Lempa et al. 2004; Hansen et al. 2006).",
+                "Paper ID": "a0eafc11bf159d598475a07c98b9cedf30b86cb7>4957147f205941d97c60186eee1b1e4236bbee72",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "%) of patients had consulted a physician about their RLS symptoms in the last 12 months, but an accurate diagnosis was reached in only 12.9% (Hening et al., 2004).",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "Also, the peak muscle activity of the TES was about 10 %MVC lower and the IO and EO had larger EMG amplitudes during the pre-trial and trial in the Krajcarski et al. (1999) study.",
+                "Paper ID": "551c30c8c3ffd11bb00ffef7d89fa3bec52a1102>f25f4beb189c66b5d0e805ab5a667765137f1787",
+                "Relevance": 1
+            },
+            {
+                "Document": "%) and in the Registro\n Informatizado de la Enfermedad TromboEmbo\u00c3\u00c5lica (RIETE) (major bleeding at 3 months: 3.4% vs. VTE recurrence at 3 months: 2.1%).16 Similar results were also observed in the Worcester Venous Thromboembolism Study.11\n The main strength of our study is the multicentric prospective inclusion of unselected VTE patients in a real-world setting that provides a representative picture of the age distribution in patients with acute VTE.",
+                "Paper ID": "4a89f14ae6ace85177cd989f966799e911dbc0ac>8d1b31f3bba96582675440f01d19474a9de2d0f0",
+                "Relevance": 0
+            },
+            {
+                "Document": "\u2026carriage rate was 4.4%, which is in close agreement with that reported by Hisata et al. (2005), accounting for 2.3% more than the values mentioned in the study carried out by Torano et al. (2001) in La Habana, Cuba, 3.1% more than those of a study conducted in Brazil (Cardoso-Lamaro et al., 2009).",
+                "Paper ID": "891c43de74b0699fb6d1c109b7cac6ef9ad19649>ea74c2054161a25e24fcb0f01f46def4edd09d88",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Histopathologically, the most common type of PAL or lymphoma involving adrenal gland is diffuse large B-cell (1, 3-5).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "This redistribution could favor venous congestion in some of the flaps, leading to the most common vascular complication, the diffuse venous congestion of the DIEP flap, neither caused by pedicle-related issues (such as venous thrombosis or kinking) nor by technical errors (for example, deficient suture or avulsion of the pedicle).[6,7] This phenomenon is observed in 2-10.",
+                "Paper ID": "410376c6a35d3dd09a544e0b334ac4e11e22da52>bc09dfbd0300f89c727c3b5f494b326fc0bb9b15",
+                "Relevance": 1
+            },
+            {
+                "Document": "To model a large class of such situations von Neumann and Morgenstern (1944) came up with a definition of a simple game which is the simplest possible type of a cooperative game, where the payoffs of coalitions are either 1 or 0, i.",
+                "Paper ID": "31892be0cad96d6edb1d2bbd88effd297e9b8b83>e1d2ea5d876a526b915a450e2cb23581600e3750",
+                "Relevance": 0
+            },
+            {
+                "Document": "The systemic nature of this disease is reflected in the involvement of multiple organ systems, including skin, lungs, and vasculature as well as diffuse tissue inflammation and increased risk of atherosclerosis (1).",
+                "Paper ID": "276ae3aca4b199021882e923439a34322858cd53>6ff2b47b4157846ef2c46466b662f69a8f564a4d",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "The results of this research coincide with another ten cost-effectiveness analysis on PCV13 performed in different countries [31-40].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Its utilization in the context of cluster ensembles for gene expression data [18] is another significant future research.",
+                "Paper ID": "97e2b13cb35d9d69ec82979326a41f977c435da0>8435e2b9e4dd4f54696a370464bcec819a842f4c",
+                "Relevance": 1
+            },
+            {
+                "Document": "On the other hand, whilemuch of the research in this direction is focused on understanding the data geometry, the theoretical foundations for the problems of function approximation and harmonic analysis on such data-defined manifold are developed extensively inMaggioni andMhaskar [8], Filbir andMhaskar [42, 43], Mhaskar [44, 45] and Chui and Mhaskar [46].",
+                "Paper ID": "692760a7a68e3b6e53fdab25f6d6a44626f2b701>60a17e231232f9ed194f3a2fc3f79e7810151a75",
+                "Relevance": 0
+            },
+            {
+                "Document": "Ten Caucasian patients with grossly increased levels of N-isovalerylglycine and N-isovalerylcarnitine were diagnosed with IVA and the metadata on these cases are described in Dercksen et al. 2012.",
+                "Paper ID": "25a16f6fda8c4a6b685a3a99315cca3eb148eec2>c08d82e0e656dadaa0c26b1a21fe57fa60bb84d8",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "This is mainly a result of the daily use of fluoride (F) dentifrices [Glass, 1982; Bratthall et al., 1996; Marinho et al., 2003].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Several authors (Anderson et al., 2009; Malmierca et al., 2009; Ulanovsky et al., 2004, 2003) use the normalized frequency difference:\nf norm, f2 \u2212 f1\u221a\nf1 f2 (A.1)\nwhere f1 and f2 have Hertz units, while others use the octave frequency separation (e.g., Von der Behrens et al., 2009).",
+                "Paper ID": "ff9e9a626ab907f0821a6949edf1dec1c2a0a8a0>ab521feed89a9397e278fe1cb66cb7f19e3e2704",
+                "Relevance": 0
+            },
+            {
+                "Document": "The involvement of the clock in Pai-1 gene regulation has been described (Maemura et al., 2000; Minami et al., 2002; Schoenhard et al., 2003; Oishi et al., 2005a; Chong et al., 2006; Oishi et al., 2007), although the precise molecular mechanism on how the clock regulates the intrinsic daily expression of Pai-1 transcription is still unclear.",
+                "Paper ID": "be51b97b6e0d58fd27c925bf7fd41c4dd0c74aa4>a7712eb406fe6603f4c106def99783fdd7358932",
+                "Relevance": 1
+            },
+            {
+                "Document": "Pk also physically interacts with Vang, and this interaction leads to the clustering of Vang on the opposite side of the cell (Bastock et al., 2003; Jenny et al., 2003; Strutt et al., 2011).",
+                "Paper ID": "4e76d6b98473d7af7d7c946cd9b4e2d110de5606>9d57eaed154045f05a5d6543d72db7db873ab390",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "The third experiment uses our hashing scheme, which makes comparing all possible subgraph pairs tractable, to compare graphs Vishwanathan et al. (2007a). On publicly available datasets like MUTAG and PTC as well as on the biologically inspired dataset DD used by Vishwanathan et al. (2007a), our method achieves the best known accuracy.",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "On the synonym choice task, we compute the accuracy of the covered items with partial credit for ties, following Mohammad et al. (2007). We report performance on all items as well as on the respective subset of covered items.",
+                "Paper ID": "3b608cc1943f9a07a47d13ea2f1e67b447030567>c829b63a3ae72a47e1953e1295826c7b2f93bf50",
+                "Relevance": 0
+            },
+            {
+                "Document": "Then, we compare the proposed TTGP method with SVI-GP (Hensman et al. (2013)) on regression tasks and KLSP-GP (Hensman et al.",
+                "Paper ID": "4fb5be37a1884b0e6950f7a259fcb35d6b8bb77a>d8321c6d9f8ab23cab2f104b692016279926567c",
+                "Relevance": 1
+            },
+            {
+                "Document": "For controls, all three primer pairs were tested in the second-round PCR. Primers specific to Botrytis, Cladosporium and Fusarium (Table 1) were designed based on the\nITS sequences from our previous publication (Shipunov et al., 2008).",
+                "Paper ID": "5ddd341c20f323d736e9b3899ad20561c9bdbeea>8f2cfced117e54b3e1ba97b0e43f34e0ec747952",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Knock-down of av integrin by small interfering RNA av integrin suppression in HCT-8/E11 cells was performed as previously described [30].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "3D organotypic culture was performed as described previously (Wescott et al. 2009).",
+                "Paper ID": "317038515dadc44c346a3422c788af0ff26d198b>5b9b67887b1c7f790da959d93a89eea402a238e1",
+                "Relevance": 0
+            },
+            {
+                "Document": "Due to \u03b1v\u03b23 integrin aggregation on the glial cell surface caused by Thy-1 binding [37], restricted Thy-1 lateral diffusion could also result from Thy-1-integrin binding at cell-cell contact sites [6,53] or within the same cell [12].",
+                "Paper ID": "c9091cdd25a70dcf341deea90a04b5ad22cfcc74>7e5f21b13ea21bd6f93a3d584f334d0c62bb393c",
+                "Relevance": 1
+            },
+            {
+                "Document": "Total lung HP content was assayed in duplicate as previously described (20).",
+                "Paper ID": "64cf98067d1cadda174e5ffa24fc45a6b3e6426f>2d04ac3be66a1148b0e0aeb687d0345841ca674f",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "In these studies [15, 26], young adults were more accurate than older adults in estimating the age of young adults\u2019 faces; conversely, older adults were more accurate than young adults in estimating the age of older adults\u2019 faces.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "in adults older than 30 years; and cases in children or adolescents are rare [4,5].",
+                "Paper ID": "fe359f0ade5d4e4195b549a4a683146c0a03925e>634464a798df4aa4ca78c27a2f36bf8ba13f0588",
+                "Relevance": 0
+            },
+            {
+                "Document": "\u2026or sports (Stewart et al., 2001), although older adults are more likely to engage in the former type of physical activity (duration ratio = 3:1; Yasunaga et al., 2006), and (b) the accelerometer becomes less accurate when measuring lowintensity physical activity such as general household\u2026",
+                "Paper ID": "b3231e925e9c851d01c0c5e08edb711f82617903>ed10f059dd82bba94b4485223720255b9dd8dc70",
+                "Relevance": 1
+            },
+            {
+                "Document": "Higher systolic and/or diastolic arterial pressure among older adults has been described consistently in association with risk of hospitalization in cohort studies (Hanlon et al., 1998; Miller et al., 1998).",
+                "Paper ID": "8dfa37d9118597e766d00ccfd87003d60f6477c5>87d0428d1094e534fcf1f28e40e95311e196db58",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "At the end of each recording, the imaged notum was fixed and immunolabeled with anti-Pdm1 and anti-Su(H) to highlight external and socket cells, respectively (Fichelson and Gho, 2004).",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "The rows represent the model from Bikel and Chiang (2000) and Bikel (2004), the SVM and ensemble models from Wang et al. (2006), and our parser, respectively.",
+                "Paper ID": "388c8e6ba7646f46e499dffc00557cfe769a5dda>23c6c94534378c204c0ee21fdaebd23fd4691bcf",
+                "Relevance": 1
+            },
+            {
+                "Document": "The pigs were killed at the end of the infusion, and tissue was collected as previously described (10).",
+                "Paper ID": "187f798ffccc8adc1346b372190dbc8e55305d65>070288eaa5341b947f47637b081889fde4f51af5",
+                "Relevance": 1
+            },
+            {
+                "Document": "Assuming the well-known Kronecker correlation structure [10\u201313] we can decompose H as H = R 1 2HwS 1 2 (2) where R and S are the receive and transmit correlation matrices respectively, satisfying tr (R) = Nr and tr (S) = Nt, and the elements of Hw are i.",
+                "Paper ID": "1b95b159786c4d543bacc2ee19e55ad5fe59cf14>20a603c12afe97b667708cea749722cf4722f3ff",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "It has also been shown that boule functions in spermatogenesis by controlling the translation of the meiotic CDC25 cell cycle regulators, especially CDC25A (Xu et al., 2001; VanGompel and Xu, 2010), which is expressed in the testes and might play a role in the mitotic or meiotic regulation via G1/S transition and M-phase exit (Jinno et al.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "It was shown, for example, that the transcription and translation of genes that participate in antioxidant machinery (8), DNA repair, and cell cycle regulation are required for the adaptive response in human lymphocytes and fibroblasts (9, 10).",
+                "Paper ID": "a7c799ae8f18437be7435f75153629f208d4dc34>22f3b2d06f3853fa007d0fb5d5ab04839bca8e0e",
+                "Relevance": 1
+            },
+            {
+                "Document": "It is now evident that centrosomes play a crucial role in the timing of mitotic events, such as the cyclin B degradation in early Drosophila embryos and exit of cytokinesis in animal cells (8, 9).",
+                "Paper ID": "3f7f1b6c5e859de1c7e318ba6b6c9786513487b0>9d149e0e3fb670b6a765b3a19c1717f615cf63ae",
+                "Relevance": 1
+            },
+            {
+                "Document": "Cell cycle progression is driven by changes in cyclin\u2013CDK complexes, and if control of the cell cycle is disrupted, progress through the cycle might be stimulated by overexpressed cyclins, enhanced CDK activity or inactivated CDK inhibitors (Malumbres and Barbacid, 2001; Chulu and Liu, 2009).",
+                "Paper ID": "0ec5bf54921fb55a66383970dbf9040724e281e4>c824fde7bf52707c957aeb5c297268efb9d9a669",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "To avoid interference of handedness, handedness was determined using the Flinders Handedness survey (Nicholls et al. 2013), and the arm onto which HFS was applied was balanced across participants.",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "Groups (LHS, RHS, CON) did not differ regarding age or handedness as assessed with the Edinburgh Handedness Questionnaire [16] (MANOVA, n.s.).",
+                "Paper ID": "d854714980342c9fa58718e29e6ab7eefe802cf6>75c2f465d59739dbc06b70fd34dc3c1b2336103e",
+                "Relevance": 0
+            },
+            {
+                "Document": "In addition, the Manual Ability Measure (MAM-16) [35] and Edinburgh Handedness Inventory [36] were completed by both patients and controls.",
+                "Paper ID": "83441bcdd93d6254aa22d7e1a4ca1629fba32a9c>e8f94cb266bb62b896421ded15f74930726c709e",
+                "Relevance": 0
+            },
+            {
+                "Document": "Pre-intervention survey data (n=65) was collected during the first week of class and postintervention survey data (n=65) the last week of class using the Mediterranean Diet Quality Index (KIDMED) developed and validated by SerraMajem et al.(10) The nutrition intervention was based on the MD as a weight management guideline and incorporated assigned readings, article reviews, recipe analysis, weekly discussion forums, asynchronous presentations, writing assignments, and exams.",
+                "Paper ID": "c3a377cc0e4d3b649324edc90321a3fb7ebd2b85>16dce7476b4739f3a5ffea731a7abdfac4281089",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "One study could not show a significant difference in the range of motion after 1, 3, 6, 12 weeks and 6 months in 100 patient who had minimally invasive TKA (50 patients with and 50 patients without computer-assisted navigation) [13].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "2% in those with TB meningitis and TB lymphadenopathy, respectively.(20,22) Of the 17 patients with ocular mycobacterial disease in this study, 13 had active disease limited to the eyes, 2 had systemic lymphadenopathy, 1 had miliary TB, and only 1 had active pulmonary TB.",
+                "Paper ID": "780fc0cc0599b87284d6f7eff301301ea11c2bae>fd9e1925155bbfa0b97175da80720ee830e79386",
+                "Relevance": 0
+            },
+            {
+                "Document": "Level 1 patients require immediate lifesaving interventions, level 2 patients are in a high-risk situation, are lethargic, confused, or have severe pain, and levels 3, 4, and 5 patients need many, 1, or no resources, respectively.(19) All adult (ie, 18 years of age) nontrauma patients were eligible for inclusion to the study, if they had an ESI score of 2 or 3 and vital signs within the normal range and presented in 1 of the 2 EDs between May 24, 2007, and February 8, 2011.",
+                "Paper ID": "4b63bcc53edd789bf9ed352b3cd3cab7b925091c>3901e74e570d758f8d4431e1b9507102bef173fe",
+                "Relevance": 0
+            },
+            {
+                "Document": "Case patients were included in the study if they had an episode of pSAB, defined as bacteremia for longer than 7 days.(3) For patients with multiple episodes of pSAB, only the first episode of SAB in each patient was included for analysis.",
+                "Paper ID": "940b10c7c99aa5c4c905e90c5906f849d83c7a94>772cbefd29727a2ac1d9fce56ca09a8b226ac438",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "The performance of a predictive method, according to a given criterion, can also be represented graphically by means of a lift chart (Witten and Frank, 2000), such as that shown in Fig.",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "Since relatesTo arguably subsume the relation of containment, Urinary Content, Profile-Defining Content and Profile-Defining Presence become special cases of Urinary Relatum, Profile-Defining Relatum and Profile-Defining Context respectively (e.g. as Urinary Content is something related to some Urine by a relation of\n7 Although the original work concerning UFO and OntoUML [Guizzardi, 2005] prescribes that antirigid types (such as RoleMixin types) could be instantiated exclusively by objects, more recent works [Guizzardi, Guarino, Almeida, 2016] acknowledged the idea that all endurants (including intrinsic properties, such as Modes or Qualities) can instantiate anti-rigid types.\ncontainment, it is also a Urinary Relatum).",
+                "Paper ID": "c8aecfbd5eceac432452504ff5f1267d480410de>834dbec0940e50953f9d66b0f3fafa526a7224df",
+                "Relevance": 0
+            },
+            {
+                "Document": "All participants were randomised in the included trials, however, only four studies [32\u201335] specified the method used, one of which [33] described randomisation by sequential allocation according to age (and symptom duration) a method deemed inappropriate by van Tulder et al.",
+                "Paper ID": "adb2caee6c68c6a00055dac5683da3017aa253b3>93b42df2eae73483bc0e822182283e2fd2f76b30",
+                "Relevance": 0
+            },
+            {
+                "Document": "As shown by previous studies, miR-503 can function as a tumor suppressor, which is well reflected in the present study that showed lower expression of miR-503 was strongly correlated with higher tumor burden of GC.(8,9) Moreover, our results showed negative correlations between miR-503 expression and serum CEA level, which may be to some extent a good explanation for the potential mechanism of miR-503 in GC.",
+                "Paper ID": "65beb90230015af9bb66becc17d8462b48d1347c>ccd94a2d44517c4f01cec3f8e9ebb9c517a9ddb6",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Such a construction mimics the highly effective P450 BM3, a natural chimera whose high turnover and native bacterial expression have made it a popular construction to replicate (18, 21).",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "These results are aligned with the claims made by authors such as Kampenes et al. (2009), Jackson (2002), Gro\u221a\u00c9\u221a\u2020nniger et al. (2007), Petre (1995), as it was discussed in Sect.",
+                "Paper ID": "c1f2ddb211d773c27295f480354767c2612a8053>9955b33f62a23e793953fe3d1884ed744a6ecb40",
+                "Relevance": 0
+            },
+            {
+                "Document": "Previous studies have also reported high expression levels of Cyclin B1 in a variety of cancers such as breast, cervical, gastric, coloectal, colon, and prostate cancers, as well as in myelogenous leukemia cells ([25-28]).",
+                "Paper ID": "1493ec98343becc815dc98796303d7ca44bc6cf9>368b22837caafb297417145d7927253d045325da",
+                "Relevance": 0
+            },
+            {
+                "Document": "These results replicate and extend previous results from our lab (Hankosky et al., 2013), demonstrating distinct manifestations of behavioral sensitization in adolescent- and adultexposed rats that only emerge if the challenge dose is high enough (i.",
+                "Paper ID": "236cbe1380a7489439160d2093329b65b1db45c5>0246e7593fac74bbe225adc57f1ced0fea004fd0",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "In a model of histamine-induced hypotension, Olivera et al. (2010) showed that Sphk12/2 mice, but not Sphk22/2 mice, were significantlymore hypotensive thanWTmice.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Furthermore, morphine produces locomotor sensitization in C57 but not DBA mice (Orsini et al. 2005).",
+                "Paper ID": "07895f7b08a16c607fc6e8621a1256784c7461c4>488e1b26dcc9274c9bf4f8ee7dd5d96109565214",
+                "Relevance": 0
+            },
+            {
+                "Document": "Hajos et al. (2001) found that WIN55,212-2 depressed excitatory transmission in the hippocampus of both wildtype and CB1-/- mice, while two other groups have found that excitatory transmission was depressed only in wildtype mice (Kawamura et al., 2006; Takahashi and Castillo, 2006).",
+                "Paper ID": "9067b0284ae1debf2488a7ad1db111b8182e9b26>b13b1cbd30124f18adf4d8c5099313ef218c140c",
+                "Relevance": 0
+            },
+            {
+                "Document": "Exercise has an important role not only in promoting general health but also in the prevention and treatment of various kinds of ailments, such as mood disorders (Agras, 1995) and constitutional hypotension (Duschek and Schandry, 2007).",
+                "Paper ID": "922093525a45033663049e16236a2309f0f8c40c>108694d5b1fd1f48ca933ad8720b067689448fd8",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "However, using KiNG [39] we manually determined that single-peptide rotation angles from 25u to +15u of the N3 peptide could help optimize the H-bonding angle of its backbone amide to the N-cap sidechain H-bonding angle and were viable in terms of sterics, Ramachandran dihedrals [23], and t angles; therefore we included such a rotation in increments of 1u.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "In addition, a precise supracondylar osteotomy with the desired angle is a technically demanding procedure and placement of a plate requires a rather large incision [4, 10, 17, 19, 23, 30].",
+                "Paper ID": "d195d3a2602d5e1ed17f9d1b583f582a6b1239f5>993bf6263167b7c3cb38e2992214cec590cd93fd",
+                "Relevance": 1
+            },
+            {
+                "Document": "Hence, with the understanding that measuring instruments need to be used by physical therapists in order to objectively quantify alterations affecting mainly the thoracic and lumbar regions of the spine, and to establish the criteria for planning and following up their interventions13, the aims of the present study are to investigate (1) the accuracy of the angles of the sagittal curvature from the thoracic and lumbar regions of the spine obtained using an instrument adapted from the arcometer developed by D\u2019Osualdo, Schierano and Iannis18 by comparing them with those obtained using X-ray examination and (2) the inter-evaluator reproducibility and the intraevaluator reproducibility of the arcometer.",
+                "Paper ID": "76fdcc83e446855c9ca52fabf3e180a6db9cb2c1>d7935a176b1433171aba56c861a17354a034fed0",
+                "Relevance": 0
+            },
+            {
+                "Document": "Specifically, deletion of a component of the complex involved in H3K4 methylation resulted in the identification of the monodictyphenone [23, 42, 144] and orsellinic acid/F9775 [23, 42, 144] gene clusters, respectively.",
+                "Paper ID": "3a61d4416631f5cc6131386bfbf9eddce533840e>f2b6dc44b32f28ae8da517f92673303f057696ca",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "The resulting phenoxy radical can be reduced to its parent compound by enzymatic or non-enzymatic reactions (Sakihama et al., 2002).",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "However, just as in the research results demonstrated by Murugappan et al. (Murugappan et al., 2007), (Murugappan et al., 2010), our classification results also indicate that the accuracy can be improved by covering the entire area with more EEG electrodes.",
+                "Paper ID": "7946d3e592479adae35ae003ba78408a53583841>5b80a30a7d68ec9c86486248aa979cae57a89f3b",
+                "Relevance": 0
+            },
+            {
+                "Document": "Previous studies have demonstrated that shorter exposures can disrupt recall performance due to incomplete encoding of the memory array, resulting in increases in both swap errors and guessing (Bays et al., 2009, 2011; Emrich & Ferber, 2012).",
+                "Paper ID": "6e99f811d7817287226a134bd05a826d09fcbc98>3c045042469071b9d21230fcfe5ee598fc3ddd39",
+                "Relevance": 0
+            },
+            {
+                "Document": "Overall, we confirm the results observed by Ferrero et al. (2007a) on the effect of radical surgery for endometriosis in women with moderate to severe deep dyspareunia.",
+                "Paper ID": "d1ce95485162b623ceb11701c8fc7ae2905b8be7>12d7d6767817649ebbaf818e09cdc1dd02bc6c21",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "These findings confirm previous studies on the humerus as reported by several authors [32, 33, 35, 36].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Among the six studies that reported detailed results on the timing of randomized controlled trial registration, compliance with the ICMJE policy requiring prospective trial registration was poor [16, 22, 24, 27, 32, 33].",
+                "Paper ID": "45edff55835cc98c06c893d5bed2a8dc2b308655>1e526b851137c3deca29c1cd0e3c852ef7744d3e",
+                "Relevance": 1
+            },
+            {
+                "Document": "Moreover, these general network properties were demonstrated to have great impacts on the networkbased problems, such as traffic transport [12, 13, 14, 15, 16], epidemic spreading [17, 18, 19, 20, 21], network attacks [22, 23, 24, 25, 26, 27, 28], synchronization [29, 30] and control [31, 32, 33, 34, 35, 36], link prediction [37, 38, 39], etc.",
+                "Paper ID": "9e6854c2cc69efcc372b9b1ca85f1ee8526e50a4>e1ca362376e6ee706e1f54aefae8fd9374cb8c3b",
+                "Relevance": 0
+            },
+            {
+                "Document": "9 m pools [16, 19, 28, 30, 34] and 50 m pools [29, 33, 36]; in some cases the pool size was not stated [31, 35].",
+                "Paper ID": "fb77c4e7eabf78a74edbb58a8f8c8093c7f43c30>25f7210be4449d4fec53f0bf97aef9764242306a",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "The results of the present study, however, are in contrast with the somatodendritic polarization of BDNF and NGF reported recently in cultured hippocampal neurons (Bl\u221a\u2202chl and Thoenen, 1996; Goodman et al., 1996).",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "This model of practice is common for home intravenous therapy programmes in the UK (Nathwani 1995, , Nathwani and Davey 1996, Kayley 2003), however; recently this model has been revaluated (Laupland et al 2002, Cooper 2003).",
+                "Paper ID": "5f3353c6511cd4fb182297c01a7c5c36c4e1958f>c37a7b41ae9c092bf82f2b57ed635cbfc562dded",
+                "Relevance": 0
+            },
+            {
+                "Document": "Receptors of virtually every type have been shown to stimulate the production of the phosphoinositides phosphatidylinositol-3,4,5-trisphosphate (PtdIns-3,4,5-P3) and PtdIns-3,4-P2 (Auger et al., 1989; Serunian et al., 1991; Gold and Aebersold, 1994; Gold et al., 1994; Okada et al., 1996).",
+                "Paper ID": "0093753fc77eccd1248d1237709470d5e770eda0>a48dae876ed733d9257f91bc465438501d2b3668",
+                "Relevance": 1
+            },
+            {
+                "Document": "To assess for skills of divided attention, the measures used by Craik et al. (1996) and Naveh-Benjamin, Craik, Guez, and Dori (1998) were considered appropriate as the aims of the current study were similar to their objectives.",
+                "Paper ID": "95746f1690aac138821596f863097e851d462976>a7a252d73ff0f63ae9d444cded332c8c41552e28",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": ", Extended Yale B dataset [34], AR dataset [33], Caltech-101 object dataset [32], and UCF sports action dataset [35], respectively.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "evaluate the semantic clarity of each filter, we chose three benchmark datasets with landmark3/part annotations for training and testing, including the ILSVRC 2013 DET Animal-Part dataset [36], the CUB200-2011 dataset [30], and the Pascal VOC Part dataset [3].",
+                "Paper ID": "33e6eeec4cd55d49a355d41f585e736e616105ed>09e15bb266da86d0a9525d2a94ac0b38f0b53b88",
+                "Relevance": 0
+            },
+            {
+                "Document": "Single-category classification: We learned four types of interpretable CNNs based on the AlexNet, VGG-M, VGGS, and VGG-16 structures to classify each category in the ILSVRC 2013 DET Animal-Part dataset [36], the CUB2002011 dataset [30], and the Pascal VOC Part dataset [3].",
+                "Paper ID": "33e6eeec4cd55d49a355d41f585e736e616105ed>09e15bb266da86d0a9525d2a94ac0b38f0b53b88",
+                "Relevance": 0
+            },
+            {
+                "Document": ", 2010), Symfeat (SYM for short) dataset (Hauagge and Snavely, 2012) and VGG dataset (Mikolajczyk and Schmid, 2005).",
+                "Paper ID": "55c6181ad66a1086badffb379502d7b062037bbb>3824a648507000b7f319b9bf2ec0b7d07bcdfee4",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Some studies suggest that tumor cells can survive and proliferate in bone tissues by acquiring a bone-cell phenotype and osteoblastic features termed osteomimicry [36, 47].",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "As shown by previous studies, miR-503 can function as a tumor suppressor, which is well reflected in the present study that showed lower expression of miR-503 was strongly correlated with higher tumor burden of GC.(8,9) Moreover, our results showed negative correlations between miR-503 expression and serum CEA level, which may be to some extent a good explanation for the potential mechanism of miR-503 in GC.",
+                "Paper ID": "65beb90230015af9bb66becc17d8462b48d1347c>ccd94a2d44517c4f01cec3f8e9ebb9c517a9ddb6",
+                "Relevance": 1
+            },
+            {
+                "Document": "Language difficulties are often considered as secondary effects of a broader condition, but our results suggest that haploinsufficiency of genes in the BP3-BP5 region can influence language ability directly, reinforcing the view that recurrent CNVs relevant for neurodevelopmental phenotypes tend to be incompletely penetrant and associated with a variable phenotype [45].",
+                "Paper ID": "22ec3eb34c4768f26230f342db6c80aefdf88e6a>67b15c0756c6fe930b385c57f5d8677ef3bdb80f",
+                "Relevance": 0
+            },
+            {
+                "Document": "Both from our laboratory and studies from other investigators demonstrated that clinical radiotherapy resulted in predominant activation of NF\u03baB in surviving tumor cells including breast cancer cells [15-17,27-29,31,33,39].",
+                "Paper ID": "7703f0c8e3146bba8ed44600b6deb759bdd03835>a79770dedc500eac4f63fa7cbf1557c57bab0779",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Central serotonin (5-HT) depletion induced by electrolytic lesions as well as 5,7- dihydroxytryptamine (5,7-DHT) lesions to the medial raphe nucleus attenuate LI (Asin et al. 1980; Lorden et al. 1983; Solomon et al. 1980).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "mine (DA), norepinephrine (NE), and serotonin (5-HT) reuptake, and the enhanced monoaminergic signals lead to addictive behaviors (Ritz et al. 1990; Ritz et al. 1987).",
+                "Paper ID": "ef2ee8075b2e63e057840bac6f6c09db1a9727d7>31b7c09781dc8dfaec5dfaa3fd7157693b06232c",
+                "Relevance": 1
+            },
+            {
+                "Document": "\u2026forms (as sulfate or glucuronide) in the urine (Azouz et al. 1955; Kimura et al. 1979; Hawkins et al. 1980; Klos and Dekant 1994; Hissink et al. 1997; Bomhard et al. 1998) and to some extent in the feces (Kimura et al. 1979; Hawkins et al. 1980; Klos and Dekant 1994; Hissink et al. 1997).",
+                "Paper ID": "8384fd8ad01b0a5f310ca355d07610d147f7be77>5e0a8d84a299dc7e6902020b8e40dbd0a25be15a",
+                "Relevance": 1
+            },
+            {
+                "Document": "For example, cocaine affects dopamine (DA), norepinephrine (NE), and serotonin (5-HT) reuptake, and the enhanced monoaminergic signals lead to addictive behaviors (Ritz et al. 1990; Ritz et al. 1987).",
+                "Paper ID": "ef2ee8075b2e63e057840bac6f6c09db1a9727d7>31b7c09781dc8dfaec5dfaa3fd7157693b06232c",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "To observe the effect of the profile of M(d) (left panel in Figure 1C) on the macroscopic evolution patterns, we first fixed the fitness as a constant, F(d) = f. Figure 3 shows the fit of the model to the dynamics of divergence and diversity of patients S-P1\u2014SP11 [13].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Figure 3 shows the fit of the model to the dynamics of divergence and diversity of patients S-P1\u2014SP11 [13].",
+                "Paper ID": "ca4d2aef7421153f0f2c93db54a3e06a4942d329>a0ecd52bfe814e4941617cb23ba53b88a15397c7",
+                "Relevance": 1
+            },
+            {
+                "Document": "By pooling the feedforward inputs, a small proportion of V2 cells (Figure 3) and a large proportion of V4 cells (Chen et al., 2014) in the superficial (output) layers start to signal the global contour.",
+                "Paper ID": "0599e2ebb2aaf572a04b7ffb63146dd0e942fbf6>f2aa3b10e03add721416318b5e4ce7f5896d5dc4",
+                "Relevance": 0
+            },
+            {
+                "Document": "While the maximum likelihood solution is ill-posed in infinite dimensions, Sriperumbudur et al. (2017) have demonstrated that it is possible to fit the KEF via score matching (Hyv\u00e4rinen, 2005), which entails solving a linear system of size n \u00d7 d, where n is the number of samples and d is the\u2026",
+                "Paper ID": "c14687575d73745afea49899565009f12ae62dfb>5e57b8879a83e91af5daef8737ccda0c9556fd7e",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Analytical methods\nThe reducing sugar concentration was determined according to the method\ndescribed by Zeng et al. (2015).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "The treatment order was determined by the level of evidence in the literature for each treatment((5)).",
+                "Paper ID": "acf642b538715cb6ea800e15ed4607dd59f18035>45d6e04079454e5926a07f36c6b753bdcc73949c",
+                "Relevance": 0
+            },
+            {
+                "Document": "According to Kunito et al. (2004), the biological half-life is rather long for trace-elements with high affinity to SH group in cysteine (Cd,Hg), leading to the age dependent increase in the concentration in toppredators.",
+                "Paper ID": "881de858dc8a1025d3433a292218e767850f1936>e08302188360cb6da4797b8d1df6f2ed3f0f6a0d",
+                "Relevance": 0
+            },
+            {
+                "Document": "Responses to ILD horizontal position cues were probed with broad-spectrum noise (see Materials and Methods) within the physiological range determined from the measurements of acoustic directional transfer functions (Koka et al., 2008).",
+                "Paper ID": "7ec102746b50af4549ff328e649f7c9c875bcd2f>3da8310618b8d9488ab6d6ee10bfcce927a47891",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "[88] Quality-adjusted factors of production Capital (K) Services in volume index da Silva and Lains [85] Oulton and Wallis [86] Labor (L) Total hours worked PWT8.",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "To facilitate detection of metagenomic SSU rRNA sequences matching sequences in the SILVA database (release 126) [12], all bacterial SSU rRNA sequences \u2265 1200 bp deposited in the SILVA database (release 126) [12] were added to the initial data set and a second clustering at 97% and consecutively 85% sequence similarity threshold was performed (version 9.",
+                "Paper ID": "64232dcf6889bf7a98585d82641cf6cd1339f9ff>86f8921112e92b76dd8d62468d9cc2c8dcc78a1f",
+                "Relevance": 0
+            },
+            {
+                "Document": "This device also calculates beat-to-beat cardiac output (CO), stroke volume (SV), and total peripheral resistance (TPR), using the Modelflow technique [33\u201335].",
+                "Paper ID": "f551c5e3fe5306fb6d82a33190551c137bd11b81>236b18d51127e6e0bbdacc35b6987e0f625665f4",
+                "Relevance": 0
+            },
+            {
+                "Document": "The free cytosolic ADP concentration ([ADP]) was calculated according to the method previously described by Kemp and coworkers (33), assuming that PCr represents 85% of the total creatine content (Cr PCr) (7):",
+                "Paper ID": "f70acb099b8a11a97d87f1504d01cb2beabf5b95>e056ee9e52031eaf10c9f4a384978dc6fc544127",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "A clonal expansion of isolates harbouring the TR34/L98H mutation has been reported across several countries [15-18].",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "[43] Results from this trial have been fully reported in several published papers.[43-46] Some of the results differ slightly between published papers.",
+                "Paper ID": "de806db19e611f692e0d069aa8053220986524cc>3beae5d88887810293d47eb60dbef3f33c71f849",
+                "Relevance": 1
+            },
+            {
+                "Document": "Results of the optimal TLC thresholds and the corresponding combinations of sensitivity and specificity from the outpatient study and the results of the literature review were quite similar, while both were different from those reported among HIV-infected populations in other countries [19\u201322].",
+                "Paper ID": "3abfd9b6e27e3f2d17a9ac8056ba2b9e4aacbcb4>cdeee2aff44ef31d768c3d8e69caf2378b04058f",
+                "Relevance": 0
+            },
+            {
+                "Document": "Given that a higher prevalence of favourable rs12979860 genotype has been found among healthy individuals when compared to HCV-infected patients [41], it is plausible that our results support the notion of a protective effect of IL28B \u201a\u00c4\u00fagood\u201a\u00c4\u00f9 response genotype within the Uruguayan population, as has been previously suggested by others [10, 44].",
+                "Paper ID": "f124e1f00e263f5521205c96aa0d3e20adeba181>8c3983975c75a2dc4e2159b8e226f2e6c885d52d",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "\u2026studies where have shown that the heterologous expression\n1 3\nof R2R3 and R3-MYB transcription factors is capable to suppress flavonoids in model plants such as tobacco and Arabidopsis (Aharoni et al. 2001; Matsui et al. 2008; Zhu et al. 2009, 2013; Albert et al. 2011; Nakatsuka et al. 2013).",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "In these and other studies (e.g. Andersen and Beyer 2006; Maury et al. 2007; Law et al. 2009; Blanchard et al. 2009; Hartvig et al. 2011), the McKendrick\u2013von Foerster equation is used to model the predation and the consequent predator growth that moves biomass through the ecosystem (McKendrick\u2026",
+                "Paper ID": "63abdea08fdba7060a3422602825f0f2acdc8ead>40b346d6236879c50ef68184b19e6e5ad562b632",
+                "Relevance": 0
+            },
+            {
+                "Document": "In using the report to categorize a participant\u2019s attentional state in the 10\u201315 s immediately prior to the report, this methodology has been used to demonstrate reliable and replicable differences in neurocognitive functioning between on-task and mind wandering states (e.g., Christoff et al. 2009; Franklin et al. 2011; Kam et al. 2011, 2012, 2013; Kirschner et al. 2012; Mason et al. 2007; McKiernan et al. 2006; Smallwood et al. 2008a, b; Stawarczyk et al. 2011).",
+                "Paper ID": "3395ec800f81af7f7fe77c228c92efcc63d255a7>bc4aa427890c2f4ce4b7acf3f955aa7f137e3e3f",
+                "Relevance": 0
+            },
+            {
+                "Document": "Immediately after the capture of an image, we took a second photograph of the color standard placed in the same location and photographed under the same lighting as the subjects (i.e., the \u201csequential method\u201d: Higham 2006; Bergman and Beehner 2008; Dubuc et al. 2009; Stevens et al. 2009; Higham et al. 2013).",
+                "Paper ID": "3c68c75e3124e9dd88ba7976ae260e529d04673b>83b068ec9c512a143958aac76ad14520539b505c",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Another important aspect of the present study was the apportionment of trace elements using multivariate cluster analysis [6, 10, 20].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Instead they were identified directly from the Encyclopaedia Of DNA Elements Project [65], in which the \u03b1-globin cluster is one of the targeted regions [12,66].",
+                "Paper ID": "50b2b14bdff972bdeca0d0db75d0f2cba5b2f99a>997ec6defbf30d8dd41f32785fc8d0468ad2c15d",
+                "Relevance": 0
+            },
+            {
+                "Document": "The reasons for excluding the toxic endpoints of necrotizing enterocolitis and ROP are that necrotizing enterocolitis and other GI toxicities were proven not to be associated with INDO dose or concentrations [24], and the association of ROP [20] was speculative given the secondary analysis and different treatment populations a priori for different dosing levels used to analyze that aspect of the study [11].",
+                "Paper ID": "679eba4c17861a696d98990eb47cc858c608f8b6>e468a076d412ec523fe3ad088643b1352d42b2bf",
+                "Relevance": 0
+            },
+            {
+                "Document": "In another study, 550 V of high-voltage electrical stimulation was applied to Cabrito carcasses, and ES increased a\u2217 and b\u2217 values of carcasses [10].",
+                "Paper ID": "ee584da5f857933eebc8979dd5f3af90b3c85c52>1b44e96b17dbb934364aba51e2ae7dabe7999534",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Our observation is different from the results reported by others (20,21) who found that D-CPPs had higher cellular uptake than L-CPPs, although no biological functional cargo was used in their study.",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "This study used the three-form (25% missing) and SQSD (50% missing) designs, although others are available (Graham et al., 2006).",
+                "Paper ID": "c328f8ba08d22b835c9ff2fcd112053b36c17942>cd381d94835eb2ab464dcc843ff8e29e55beeb34",
+                "Relevance": 1
+            },
+            {
+                "Document": "The development process and functional behaviour of the cellular array was executed on an FPGA (Tufte and Haddow, 2005).",
+                "Paper ID": "79135705f52b713ad86b257e8ce0561caaaa0c82>c535ba2e67ce051805a48fd3ba3b44ff8bcd44a8",
+                "Relevance": 0
+            },
+            {
+                "Document": "Although the time-constants of the learning window used in this study were much shorter than those reported for hippocampal neurons by Bi and Poo [27] (viz.",
+                "Paper ID": "7b84de729396dafbd9902a863813cf07ddff699a>d008272a8213ee67673e986a23e99d14ca836958",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Therefore, Treg dampen local inflammatory processes occurring during the time of implantation and support successful embryo nidation (Teles et al. 2013a).",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "\u2026analysis on diagnosis of HD in PD and employed a variety of machine learning techniques and classification analyses to introduce the acoustic analysis as a non-invasive diagnostic marker of PD (Novotny et al. 2014; Orozco-Arroyave et al. 2013a, b; Rusz et al. 2011, 2013b; Smekal et al. 2015).",
+                "Paper ID": "f1516affaec39fe1a54e3a988094d4ebbecdde9e>1e522816471854cfc37dfb925439b49019c5b2e9",
+                "Relevance": 0
+            },
+            {
+                "Document": "Details of the device characteristics, function and the approach to surgical implantation have been described elsewhere.(7) Patients on pulsatile-flow",
+                "Paper ID": "b5f7e1f17fcd8251a9cf815391b33cb3ad551f92>d2899fd84fcefd04c031eeba5877c2518dde82f1",
+                "Relevance": 0
+            },
+            {
+                "Document": "Sessions were conducted at the same time of day for each participant after a 4-hr postprandial period during which no food was consumed, in accordance with previous studies including that of Carter et al. (2004). Participants were instructed to abstain from alcohol, caffeine, tobacco, and exercise during the 24-hr period before each visit.",
+                "Paper ID": "88169e2560c9d9f2fe25e871e38150dbd76249c6>3ce55c45824c92eb7c4a7e3d7a14cde7260f0664",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Similar survey results in Kentucky showed that the high-stakes, performance-based assessments in writing and mathematics strongly influenced teachers to make their instruction more consistent with the state curriculum in these areas (Stecher et al., 1998; Koretz et al., 1996a).",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "Similar results were found in other restinga areas of the State of Rio de Janeiro, where Eugenia and Erythroxylum (Erythroxylaceae) were pointed out as super host plants (Maia, 2001; Oliveira and Maia, 2005).",
+                "Paper ID": "17eb18d63a13e4559d54e263e45bcea0319d4ad4>None",
+                "Relevance": 1
+            },
+            {
+                "Document": "In consistent with these results, the decreased activities of antioxidant enzymes were observed in rat liver (Fetoui et al., 2009), in rat kidney (Fetoui et al., 2010) and in fish liver (Oreochromis niloticus) (Piner and \u221a\u00faner, 2012).",
+                "Paper ID": "83e2775cd18e1d9c47b0d104fe7c4adaafcf9e6a>e57750e6c1f016cf7d49b3cddbceec64e0156f6d",
+                "Relevance": 0
+            },
+            {
+                "Document": "In line with past studies (e.g., Anderson et al., 1998; Craik et al., 1996) results of the current study showed that secondary task performance i.",
+                "Paper ID": "95746f1690aac138821596f863097e851d462976>a7a252d73ff0f63ae9d444cded332c8c41552e28",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Moreover, although clinical results of tension-band wiring are satisfactory in the short term [5, 11, 26, 29], biomechanically the concept of converting distraction forces to compression forces has been challenged [2, 30].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "These assumptions are related to a weaker form of the second-order sufficient conditions [16, 6], which does not imply the existence of a locally convex augmented Lagrangian as is the case in [5, 9, 15, 14, 26, 30, 31].",
+                "Paper ID": "197bc2ca508c76ed2183c51ceb2ea6324a7df1a1>b34f1e4fafca82ce6740e14718eec338cfbd76de",
+                "Relevance": 1
+            },
+            {
+                "Document": "Most of the breast cancer survivors reported changes in the cognitive domains of short and long term memory, processing speed, attention, concentration, language, verbal memory and executive functioning [32,33,35,36].",
+                "Paper ID": "d93426ac252abbae0ac2a8078adee38445546652>e1ed37d5e98424311bc079f56c064d8d80177292",
+                "Relevance": 0
+            },
+            {
+                "Document": "Since these applications rely on the dynamical behaviors of the equilibrium point of the CGNNs, it is very important to investigate the stability of CGNNs and a large number of results have been discussed, see [2, 3, 4, 5, 6, 7].",
+                "Paper ID": "6e908a4cb359da05fd2488a074be513817179b6a>3e2cc7f92250ec8951fdb55edab9bbbcfed4bf95",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Considerations were based on the AACE Medical Guidelines for Clinical Practice for the Management of Diabetes Mellitus (1), review of other guidelines (ADA Standards of Medical Care in Diabetes\u20142009) (2), previous algorithms\u2014ACE/AACE Road Maps to Achieve Glycemic Control (10), ADA/EASD 2006 (5,6), ADA/ EASD 2009 (7), Canadian Diabetes Association (8,9), and Inzucchi (11)\u2014the FDA-approved prescribing information for individual agents, pharmacoepidemiologic surveillance studies, and the current literature describing relevant clinical trials: DCCT/EDIC (12), UKPDS (13), Steno-2 (14), ACCORD (15), ADVANCE (16), VADT (17), RECORD (18), PROACTIVE (19), and others.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Further investigation on the chemical constituents of the extract resulted in the isolation of eight new chromones (1\u20138) and three new phenol derivatives (9\u201311) together with eight known compounds: sydowinin A (12) [4], pinselin (13) [5], sydowinin B (14) [5,6], aspergillusone B (15) [7], AGI-B4 (16) [8], diorcinol (17) [9], cordyol C (18) [10], and hydroxysydonic acid (19) [11] (Figure 1).",
+                "Paper ID": "73022204cb23bb61861120a3d60d19c50c75c58a>10add238d07527785df2919e71f7f8c9dc230d0b",
+                "Relevance": 0
+            },
+            {
+                "Document": "In phase III studies, nivolumab has demonstrated an overall survival (OS) benefit in squamous NSCLC (9), nonsquamous NSCLC (10), melanoma (11), RCC (12), and squamous cell carcinoma of the head and neck (13), and is being developed for several other tumor types.",
+                "Paper ID": "e1d7f2653176fa4ce8e3d6f4d8f45bad205bc187>3164ff63c7fd8f062e0d3c487059630def97955c",
+                "Relevance": 0
+            },
+            {
+                "Document": "\u2026to Zeilberger (1990), Chyzak (2000) and Koutschan (2013) for the holonomic approach, to Wilf and Zeilberger (1992), Wegschaider (1997) and Apagodu and Zeilberger (2006) for the multi-sum approach, or to Schneider (2005a, 2008, 2010c, 2015) for further refinements of the difference field approach.",
+                "Paper ID": "21c44db71f8965dd970ffa23bcda403fdb306aba>7fa4f05dd489b6dd03065069f660c89328337e18",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "(Leach 1819) nauplii ad libitum throughout the experiment according to Martinez-Palacios et al. (2006). In total, 20 larvae from each replicate was sampled at one, four, eight and 12 wah, sedated with ice water and culled as previously described for other atherinopsid species (Hattori et al.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "The final species, Siderastrea siderea, was collected from both Floridian reefs and at\nNNP in the Bahamas (Thornhill et al. 2006b).",
+                "Paper ID": "ce0af1f5dc558ccce6483b598b49fd8871349c6d>545b378bc2f2937330d61c184650ea4060071d75",
+                "Relevance": 0
+            },
+            {
+                "Document": "A third species, Porites astreoides, was only collected from ADM and NNP in Florida and the Bahamas, respectively (Thornhill et al. 2006a).",
+                "Paper ID": "ce0af1f5dc558ccce6483b598b49fd8871349c6d>545b378bc2f2937330d61c184650ea4060071d75",
+                "Relevance": 1
+            },
+            {
+                "Document": "Data on relative testes size were taken from an earlier review (Kappeler 1997a, eight species), gathered from the literature (nine species) and through personal communication with colleagues (six species).",
+                "Paper ID": "6c0d40cfabb567805bef3f50b7af4549e66019fd>98cc989e358d6ff824272048e1030fda47e6e544",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "ATP serves as a co-transmitter within the sympathetic nervous system [1], and is also released from the endothelium during hypoxia and shear stress, from aggregating thrombocytes [2], platelets and from damaged vascular",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "Since aIIbb3 integrins mediate the uptake of pFN into platelet a-granules (Ni et al.,\n2003a), we performed Western-blotting with lysates from washed platelets and found that the FN content was significantly reduced to 70% in platelets from Fn1syn/syn mice (Figure 1F and Figure 1\u2014 figure supplement\u2026",
+                "Paper ID": "bdd52527689ce0cf6bb44418eaa50bd3e0db7a9f>d271461fbcc264eeac7a453ec5d4c49d372732fe",
+                "Relevance": 1
+            },
+            {
+                "Document": "The CatWalk system provides a detailed analysis of gait, which has been described in detail elsewhere.(15) A detailed gait analysis was made using the CatWalk system at 3 hours before injury, and at 12 hours; 1, 2, and 3 days; and 1, 2, and 3 weeks after muscle contusion.",
+                "Paper ID": "cafd06052fa5653697fc2bc6ed93dd6e7adb71c2>ef12bb814ef04f97af1d7c911ec13a0221733b1b",
+                "Relevance": 0
+            },
+            {
+                "Document": "17 CVL1/CVP2 In Arabidopsis thaliana, PtdIns(4,5)P2 is dephosphorylated by the 5TPases COTYLEDON VASCULAR PATTERN 2 (CVP2) and CVP2 LIKE 1 (CVL1) (Carland and Nelson, 2009; Carland and Nelson, 2004).",
+                "Paper ID": "1cb10d6d52502084cb4d8e00111d0ed8955b98ac>7d32e3cb0dbcf2ea9e82747629d6ed929fcb94f3",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "The data monitors the photoinduced absorption at 700 nm, representative of the broad photoinduced absorption observed between 550 and 900 nm, previously assigned to photogenerated Fe2O3 holes based on the faster decay rate of these transients in the presence of methanol (31).",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "The coloured microspheres were quantitated by extracting the dye into a standard volume of dimethylformamide (DMF) and by making use of the linear relationship between the absorption of the dye solution and the number of spheres (Kowallik et al. 1991).",
+                "Paper ID": "378a66640568862744a88321402aa4ef4474e976>ab2eed17b3da3afaccc69857821d2a3bc063e94a",
+                "Relevance": 1
+            },
+            {
+                "Document": "Based on collection of multiple proxy measures of the likelihood of exposure to infectious microbes, a pathogen score was constructed using the mean value of five interviewer-assigned variables, each scored on a 3point scale (0=low exposure, 1=moderate, and 2=high): (1) cleanliness of the food preparation area, (2) means of garbage disposal, (3) presence of excrement near the house, (4) level of garbage, and (5) excrement present in the neighborhood surrounding the household [9].",
+                "Paper ID": "1dbb649063515d063121f4c2878822b124602d02>e54474e265b7e84a9254c1b533459a0550af312b",
+                "Relevance": 1
+            },
+            {
+                "Document": "Pre-intervention survey data (n=65) was collected during the first week of class and postintervention survey data (n=65) the last week of class using the Mediterranean Diet Quality Index (KIDMED) developed and validated by SerraMajem et al.(10) The nutrition intervention was based on the MD as a weight management guideline and incorporated assigned readings, article reviews, recipe analysis, weekly discussion forums, asynchronous presentations, writing assignments, and exams.",
+                "Paper ID": "c3a377cc0e4d3b649324edc90321a3fb7ebd2b85>16dce7476b4739f3a5ffea731a7abdfac4281089",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "With a homogeneous population, it suffices to impose a uniform vaccination policy to eliminate the disease as long as the limited supply is above the herd immunity threshold [3,13,15].",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "In contrast to the above finding, the relationship between population structure and AMB susceptibility was small.",
+                "Paper ID": "becc13a1588ba61e2e53ce21efe0b286da68cc9b>7e4300ad0fc8350d90bd8de7b45c718f211e3870",
+                "Relevance": 0
+            },
+            {
+                "Document": "The spectroscopic results described above parallel closely those reported earlier for C-phycocyanin and its subunits by Glazer et al. (1973), who showed that the long wavelength absorption band of the trimeric and hexameric forms of the protein arises as a consequence of interactions between the chromophores of different monomers, rather than of interactions between chromophores within the cq~ monomer.",
+                "Paper ID": "d6d46dcb41cc6a0883566f223c7689a5d479f785>None",
+                "Relevance": 0
+            },
+            {
+                "Document": "Given that a higher prevalence of favourable rs12979860 genotype has been found among healthy individuals when compared to HCV-infected patients [41], it is plausible that our results support the notion of a protective effect of IL28B \u201a\u00c4\u00fagood\u201a\u00c4\u00f9 response genotype within the Uruguayan population, as has been previously suggested by others [10, 44].",
+                "Paper ID": "f124e1f00e263f5521205c96aa0d3e20adeba181>8c3983975c75a2dc4e2159b8e226f2e6c885d52d",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "In two other papers [3][4], largely inspired by the work of Li and Tsai, the authors performed a similar study but restricted themselves to only two image sizes (8x8 and 20x20).",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "As done in the study [Paxson (1996)], we refer to the collections of route measurements performed during the first and second experiments as D1 and D2, respectively. Paxson used the term \u201cvirtual path\u201d to denote the network-level abstraction of a direct link between two Internet sites [Paxson (1996)].",
+                "Paper ID": "3567635b88858a9baef9d31cdb9756280c7b71da>a35b4101226881e96551316fda0c614f5f5e78af",
+                "Relevance": 1
+            },
+            {
+                "Document": "The evaluation of the impact in the accuracy of the node\u2019s response has been performed for each supported frequency by comparing the results with our reference model programmed in Matlab which mimics the node\u2019s architecture and is already used in [3], [4], [5] and [6].",
+                "Paper ID": "d793b0e2afcdfe65d4a25ca1acc861fae228ef11>cdf826f56975a67b3f1ef3778cc866768d22fdc1",
+                "Relevance": 1
+            },
+            {
+                "Document": "With the exception of a previously published analysis of the first of our two pooled studies (10); other investigations have associated parity with decreases in risk of colon and rectal cancer combined (6, 8, 21), or colon cancer alone (3, 15, 19-21, 27) but not rectal cancer.",
+                "Paper ID": "562a029173dc90d1e36c51a03abc4b21573256c7>fd803dd81bfffc0da67724f84b93bfc32b46042b",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Third, as previously described [34], the neuronal proBDNF might be released, taken up and stored by astrocytes, and recycled to be processed into mature form.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Up to now, no role for FGF signaling in aVE induction has been described, however, Fgf8b was found to be important for the correct positioning of the aVE (Guo and Li, 2007).",
+                "Paper ID": "0012d808e76e1cd0e5ddeea10824a0811942a7e5>53bec9f572ae3b40e8c881b8f5fdb255ccbb9fb3",
+                "Relevance": 0
+            },
+            {
+                "Document": "L I S S , I N C .\nchains united by disulfide bonds (Jones and Jomary, 2002; Leskov et al., 2003), which represents the mature, secreted form (sCLU, 75 kDa) of the protein.",
+                "Paper ID": "6ed6bccfa0479f8a2cc29c0d8b3c4016a3185892>ad94bb03644ee9cd277304072809377c2c9298eb",
+                "Relevance": 0
+            },
+            {
+                "Document": "Our laboratory has previously demonstrated that responses to HDR appear to be independent of the influences of neck muscle afferents, baroreflexes, central command, visual input, and increased intracranial pressure (14, 25, 26, 34).",
+                "Paper ID": "a2c3de455c882a92868b7b6e7e5c7b303551dd3a>42f4cef937ab22acef516f0e5f5779397df91074",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "However, in a previous study, no statistically significant association between rs2273535 and RCC risk was detected [13].",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "On contrary to our results, Huang et al. (2006) studied 150 Chinese patients with SLE and 130 unrelated healthy individuals living in central Taiwan as control subjects. There were no statistically significant differences in IL-6 and IL-8 gene polymorphisms between the SLE and control groups (p=0.53 and p=0.44, respectively). In addition, there was no significant association between the two groups in allelic frequency of IL-6 and IL-8 (p=0.89 and p=0.26, respectively). Also, Schotte et al. (2001) studied a population-based case\u2013control study of 211 Caucasian German SLE patients and did not reveal any significant association of IL-6 gene polymorphism with susceptibility to SLE.",
+                "Paper ID": "89681152abad9b9f7ec56b184c2ce21548adc546>18fe22acc74f459cb429b43aff1201b61a0bafbd",
+                "Relevance": 0
+            },
+            {
+                "Document": "On contrary to our results, Huang et al. (2006) studied 150 Chinese patients with SLE and 130 unrelated healthy individuals living in central Taiwan as control subjects. There were no statistically significant differences in IL-6 and IL-8 gene polymorphisms between the SLE and control groups (p=0.53 and p=0.44, respectively). In addition, there was no significant association between the two groups in allelic frequency of IL-6 and IL-8 (p=0.89 and p=0.26, respectively). Also, Schotte et al. (2001) studied a population-based case\u201a\u00c4\u00eccontrol study of 211 Caucasian German SLE patients and did not reveal any significant association of IL-6 gene polymorphism with susceptibility to SLE.",
+                "Paper ID": "89681152abad9b9f7ec56b184c2ce21548adc546>18fe22acc74f459cb429b43aff1201b61a0bafbd",
+                "Relevance": 0
+            },
+            {
+                "Document": "These results extend bivariate findings from a previous study showing a significant association between multidisciplinary services and reduction of mistreatment risk in cases of elder mistreatment (Ernst & Smith, 2012).",
+                "Paper ID": "ae37136da5e4c81629bc5e2e902456ed632f8593>49124a08dbc7e2fb31d760236261450b6911bddf",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Our results are consistent with tt-farnesol concentrations required to inhibit the growth of other fungi [12, 24].",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "These results are supported by previous published data highlighting that the miR-34 family, including miR-34a and miR-34b/c, acts as a tumor suppressor, able to inhibit different human tumor growth and invasion [36\u201339], including human LSCC [31\u201334].",
+                "Paper ID": "340300238e998780678ad5f97c8e1807be13766d>560e28cb2e297629602a33fd6358703dfc8711a3",
+                "Relevance": 1
+            },
+            {
+                "Document": "Our finding is consistent with the report from the BGS [20] and other studies conducted in Nepal [22, 24].",
+                "Paper ID": "b2ec0f1621f2f4fba1d4d2f482c8f2380af5bc16>a2393d6e910b41d2456d1d794b42b5546b863094",
+                "Relevance": 1
+            },
+            {
+                "Document": "The significantly better survival in younger patients in our study is in accordance with previous results [8, 9, 12, 13, 15, 19, 20, 23, 24, 25, 30, 31, 33, 34].",
+                "Paper ID": "b2bfca14b2fcc94a5ecdf9e3d5bd23daf73da29c>4b222875f6e8f7e2adb7798bf54564861836c2a0",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Then, a non-iterative scheme similar to the popular RANSAC technique is developed by Tardif (2009) to group the line segments into several clusters, each corresponding to one vanishing point.",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "On the other hand, a Newtonian method like the one considered in [16] never leaves the line x1 = x2 and convergence to the saddle point (0, 0) is expected.",
+                "Paper ID": "3f9329351c516e7547a1f0680d1b6153b0cfd9a1>7a5a34fc4b4d812b86e96f218f408b4b555f656a",
+                "Relevance": 0
+            },
+            {
+                "Document": "Rabbits were divided into three groups: group 1 (sham), animals were anesthetized for 40 min, but no other intervention was performed prior to blood-draw; group 2 (rIPC), remote ischemic preconditioning was induced through four cycles of 5 min of hindlimb ischemia (via a tourniquet), followed by 5 min of reperfusion as previously described [2]; and group 3, electroacupuncture (EA) was applied bilaterally with one needle at the P6 Neiguan point (located on the medial forelimb 1/6 the length of the line from the wrist to the elbow between the radius and ulna) and the other needle at P5 (Jianshi point).",
+                "Paper ID": "dbb12f9633fdf3c896188aa36c43b307b63ef5f4>d5e469114f1e34e0d4e5d30931111b926cacfa3c",
+                "Relevance": 0
+            },
+            {
+                "Document": "We used expert consensus to identify Diagnosis Related Group (DRG), Current Procedural Terminology (CPT), and ICD9-CM codes relevant to diabetic foot conditions to adapt the classification scheme of the IWG on the diabetic foot.(8) The risk categories were then ordered by severity into levels from 0 (lowest, with no codes of interest) to 6 (highest).",
+                "Paper ID": "ee1e31b1203c23ad9e18bf2877712acfee26df8d>5b759397c2f45caad450907490c6ff11cbad6e05",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "GerK acts cooperatively with GerB nutrient receptor to trigger germination with L-asparagine plus a mixture of glucose, fructose, and K + (GFK) and also with L-alanine plus GFK [29,38].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "In Arabidopsis, testa color is associated with seed dormancy, longevity, and germination (Debeaujon et al. 2000).",
+                "Paper ID": "7d78f9234f92205f013602aa92b2491f88014e84>9291460032a5da11577c7c33e3ac3a32403f524d",
+                "Relevance": 1
+            },
+            {
+                "Document": "Panobinostat also decreased the expression of T-cell\u2013activating costimulatory receptor CD40, DC- and T-cell\u2013activating receptor CD83 (23), and antigen-presenting molecules HLA-A/B/C (31).",
+                "Paper ID": "c0c8d34a0fee5ff52aea3f718068fec651a82771>565c1f4c4b738f3d58f4c7cd2420b203320dabe8",
+                "Relevance": 0
+            },
+            {
+                "Document": "the common cascade; ligand binds to and activates the respective receptors (activin receptor-like kinase (ALK) 5 as a type I receptor and TbRII as a type II receptor for TGF-b, and ALK4 as a type I receptor and ActRIIA/IIB as a type II receptor for activin), leading to phosphorylation and activation of receptor-regulated Smad, Smad2/3 and subsequent transcriptional regulation in concert with common Smad, Smad4 [4\u20137].",
+                "Paper ID": "e9f05bfe64168341ef92877de83b6d054ab6bfc5>16ec74d99263859efd3ee5d2010d40ff16133847",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "resistance [12\u201314] and IGF-I may be just a marker that better reflects the 24-hour GH secretion and metabolic profile [23, 24].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "The cluster goodness can be additionally evaluated through measuring the purity, entropy and F-Measure [23, 24, 25].",
+                "Paper ID": "a08edc3e5df4e779849a64b126d8860272938bcf>b29bf8f6900b4b0258397f73957eabd1bb977ef4",
+                "Relevance": 0
+            },
+            {
+                "Document": "For example, enumeration of CD8+ tumor-infiltrating lymphocytes (TILs) has been shown to be a reliable prognostic marker for a number of cancers, including colorectal cancer and non\u2013small-cell lung carcinoma (NSCLC) [3, 21, 23, 24, 28].",
+                "Paper ID": "dbda2b32dd5eb3e63c96243d0a81c7d9248bf2b9>a6574ccbb62b943a2f199be5a196161a5d345610",
+                "Relevance": 0
+            },
+            {
+                "Document": "It is possible (as previously suggested [9]) that the primary resistance to fluid flux occurs at the fascicle level and that resistance to fluid flow between fascicles and out of the tissue may be minimal.",
+                "Paper ID": "75fb75070dacb3059d6c651e2346ccb353d88d8c>e363c25450fa02dd3b7902b36ff5242e7ae91575",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Even in the presence of O3, it is clear from not only our results, but the previously mentioned human data and other humans studies [35], that relatively low CAPs exposures will likely only cause mild electrical and HRV changes in healthy populations.",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "Other reasons for the low predictability of the Konishi equation could be the variation in nonrenal digoxin CL in different populations, reduced volume of distribution, and reduced myocardial sensitivity.(21) The results of our study cast doubt on the suitability of the Konishi equation for adjustment of drug dosage in clinical practice in Chinese patients, which could only be applied in stage 3 patients.",
+                "Paper ID": "78c563d456fd4c77ffda68fd3a1c15526548d797>1a50797f8fc7c2b2f661703d252913d9b637a17b",
+                "Relevance": 1
+            },
+            {
+                "Document": "This finding is in accordance with the results of cross-sectional studies in various populations from Italy, Japan, and China [9-14,18].",
+                "Paper ID": "b1a43ee3ef40196e0e73ac305495fa4aaaefdd9b>4ad2ee4dd60d0e13e144756c94c635f561ef1f61",
+                "Relevance": 0
+            },
+            {
+                "Document": "Although our results cannot be directly compared to previous findings, the low levels of awareness we observed, with only 23 % of the pupils responding positively to at least two of the awareness items, are similar to those reported in other studies among school-going adolescents [1, 6, 7, 11].",
+                "Paper ID": "1ec3f8306c419abe3fec0be68973947be34435b2>1149e7c8f5794cb46aa362136f4298d06c8ef826",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "A connectionist model of sequence learning recently developed by Cleermans and McClelland (1991) was able to account for the interaction between attention and sequential structure (Cohen et al.",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "The coloured microspheres were quantitated by extracting the dye into a standard volume of dimethylformamide (DMF) and by making use of the linear relationship between the absorption of the dye solution and the number of spheres (Kowallik et al. 1991).",
+                "Paper ID": "378a66640568862744a88321402aa4ef4474e976>ab2eed17b3da3afaccc69857821d2a3bc063e94a",
+                "Relevance": 1
+            },
+            {
+                "Document": "Following the suggestions by Cohen and Cohen (1983) and the recommendation of Baron and Kenny (1986) and Aiken and West (1983) as the underlying approach, we modeled interacting effects of the moderators (C) on the direct effect of the focal construct (A) on the outcome variable (B) with the\u2026",
+                "Paper ID": "3fb6e60c47dc19d6328b5504816848387a28ecf8>76d5a90f26e1270c952eac1fa048a83d63f1dd39",
+                "Relevance": 1
+            },
+            {
+                "Document": "These models are the radial-modesof-vibration model of Abdullah (1966), the tornado/ boundary interaction model of Tatom et al. (1995), and the corotating vortex model (Powell 1964; Georges 1976; Mitchell et al. 1992). The infrasonic data seemed most consistent with the model of Abdullah, as is shown in a later section. Abdullah (1966) found expressions for the fundamental (F0) and first harmonic (F1) of the vibrational modes in Hertz to be",
+                "Paper ID": "cbc308bee74319c2bf4c2fa3c8efe0db2fe84dc6>f40a16c7d8ea7fd91219e897c75ede2665b617db",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "most existing reports of pCR in pancreatic cancer involve chemoradiation rather than chemotherapy alone [6, 15\u201320, 39\u201349].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "For pancreatic cancer, current existing molecular imaging techniques include positron emission tomography (PET) [5\u20138], single-photon emission",
+                "Paper ID": "32bcabdb49c5dfe2eb6e09118235caf96c5c7f87>c78636e856aad1794d695a78c9e9852d2eccd76b",
+                "Relevance": 1
+            },
+            {
+                "Document": "The buckled structure of silicene is due to the preference of Si atoms to adopt both sp3 and sp2 hybridization rather than adopting sp2 hybridization alone, as in graphene [1].",
+                "Paper ID": "f4ece3d21b4b18bbf871b7de444edcd459f959f4>364cfa30e09f678912c10fd7e29d1781f3c2fa22",
+                "Relevance": 0
+            },
+            {
+                "Document": "One of these, GDC0449 [15,34,48], is currently in several phase I and phase II clinical trials for various types of cancers, including pancreatic cancer (trial ID: NCT01064622 and NCT00878163).",
+                "Paper ID": "2df49d447fea4af459bc2ee636b824b8a2ee5b60>6fb1f651519abaab9020c1e517a37e4bcb79c29b",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "The identified non-RCTs evaluated tocolytic treatment versus to treatment, and two of the studies [24, 27] included cerclage with tocolysis treatment.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "If medical evaluation reveals systemic lymphoma, treatment of the ocular disease is secondary to systemic treatment (usually chemotherapy).(1-30) The effectiveness of EBRT for the treatment of lymphoma of the eye and its adnexa has been widely documented.",
+                "Paper ID": "13e1ae04338649fc93817536891b96c04b3011cb>e4d55ce4baa96eb4fd77a2c27de168cfedad611b",
+                "Relevance": 1
+            },
+            {
+                "Document": "Additionally, the results surpassed the numbers of 8\u20139 h of \u201clying down\u201d reported in two studies on persons with moderate or severe OSAS [21, 22] and the 9 h and 55 min of sedentary time previously reported in patients with OSAS and obesity receiving CPAP treatment [23].",
+                "Paper ID": "779babb2e9338fb627a7b1aa1b011324e9a63d70>c00061b631273622d9fd0fb793a2a1a190729fb9",
+                "Relevance": 1
+            },
+            {
+                "Document": "Because of the high morbidity and mortality rates in the past, the surgical treatment of the intradural extramedullary metastasis was not recommended [3].",
+                "Paper ID": "365727bf4eebb774f1f0e86f420c8b6ee8caeb77>6df9cfbb8925634a398a798179aacbf70c566f1b",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "We used ProtTest (Darriba et al., 2011) to determine the best-fit model of substitution and maximum likelihood phylogenetic trees (Rep and CP) were inferred using PhyML version 3.0 (Guindon et al., 2010).",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "Based on the alignments, phylogenetic trees were inferred using the maximum likelihood (ML) method in the PHYML program (Guindon and Gascuel 2003) in Geneious 5.3.5 package with the General-timereversible (GTR) substitution model.",
+                "Paper ID": "57f8735f11fbd126be677cd4cb1dc429e4e5d3be>219271866e76281a0cab76715a62cf7495643b24",
+                "Relevance": 1
+            },
+            {
+                "Document": "In addition, evaluation of recombination by construction of incongruent phylogenetic trees (Fu et al., 2011) based on non-recombinant and recombinant region of the VP1 gene sequence was done using MEGA software version 5.0 (Tamura et al., 2011).",
+                "Paper ID": "5f2b6685eb54b7401049012bb4bb8b80b974c356>27ad640378517e7c1395dcbbec0d38d6761cf543",
+                "Relevance": 0
+            },
+            {
+                "Document": "In order to determine the severity of ASAD, Adulthood Separation Anxiety Checklist (ASA) (Diri\u221a\u2202z et al., 2012; Manicavasagar et al., 2003) and Separation Anxiety Symptom Inventory (SASI) (Diri\u221a\u2202z et al., 2012; Silove et al., 1993) were used.",
+                "Paper ID": "26420ec3d87ab5cce2f6439c368e6cfab4dbd4e0>ed36122184056b9dbc518e3b59444e0f1b913acc",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": ", 2003; Hastenrath, 2007), India, Indonesia (D\u2019Arrigo and Wilson, 2008), and Australia (Ashok et al., 2003; England et al., 2006; Ummenhofer et al., 2008c).",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "Similar reductions in crested wheatgrass cover as a result of herbicide applications have been demonstrated in grasslands without patch burn grazing (Bakker et al., 1997; Hansen and Wilson, 2006; Wilson and Gerry, 1995; Wilson and Partel, 2003).",
+                "Paper ID": "c26ba33c603e72059cf602e5f96c1b1c5e1531b6>None",
+                "Relevance": 0
+            },
+            {
+                "Document": "\u2026neurons at their long (>1,000 m) dendrites (Campbell et al., 2005) or at their axons in this study, interaction of GnIH-ir fibers with GnRH-I neurons is consistent with results in birds (Bentley et al., 2003; Ubuka et al., 2008a), rodents (Kriegsfeld et al., 2006), and sheep (Smith et al., 2008).",
+                "Paper ID": "ba67231cf2a97a5168c508f4eb5e85d5d647ac92>65e1507959b2afb1def77f805e5a6b615dddfa70",
+                "Relevance": 0
+            },
+            {
+                "Document": "All our experimental settings match previous work (Yamada and Matsumoto, 2003; McDonald et al., 2005; Koo et al., 2008).",
+                "Paper ID": "40036d9304488a29d7642fbac23c46fc89a8fbe0>d3b27746f7a53f2dc5d9b8c2f3d343313622ec36",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "\u2026proposed that mechanical tension generated by axons within the white matter may be a major factor that contributes to cortical folding during normal maturation (Van Essen, 1997) and to abnormalities of cortical folding in developmental disorders such asWilliams Syndrome (Van Essen et al., 2006).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Most of these atlases are based on a single animal (Cannestra et al., 1997; Saleem and Logothetis, 2006; Van Essen, 2002, 2004); while others are based on small samples of 6\u201312 animals (Black et al.",
+                "Paper ID": "1f5c8063b08f4fb5c86305d5699db4fd212c3fb0>d5d27c2fea340fa1c4b1f6cc9079810f25115a6b",
+                "Relevance": 0
+            },
+            {
+                "Document": "The pulvinar and much of the thalamus are centres of high-order (cortical to cortical) relay connections and their activation in early hypoglycemia may reflect arousal-enhanced relay of integrated sensory information to other cortical areas (reviewed by Sherman, 2007).",
+                "Paper ID": "73cc995f6d89c04442c2726a436c82dc5de6dcab>7243bb5a6d8249b3cbad8d182649845f9c1dbdca",
+                "Relevance": 0
+            },
+            {
+                "Document": "Most of these atlases are based on a single animal (Cannestra et al., 1997; Saleem and Logothetis, 2006; Van Essen, 2002, 2004); while others are based on small samples of 6\u201312 animals (Black et al., 2001a; Black et al., 2001b; Greer et al., 2002; Vincent et al., 2007).",
+                "Paper ID": "1f5c8063b08f4fb5c86305d5699db4fd212c3fb0>d5d27c2fea340fa1c4b1f6cc9079810f25115a6b",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Furthermore, it has been shown that, besides myostatin, other molecules can signal to the pathway and affect muscle mass. Overexpression of follistatin, an inhibitor of myostatin and other TGF- members including GDF-11 (18), promotes a great increase in muscle size that is more robust than that obtained by the deletion of the myostatin gene (18).",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "treatment with Fgf8b is shown, because Fgf8b, the most potent isoform of Fgf8, is the only gene of the studied FGF family members that has been found to be crucial in mesoderm development in the mouse (Guo and Li, 2007).",
+                "Paper ID": "0012d808e76e1cd0e5ddeea10824a0811942a7e5>53bec9f572ae3b40e8c881b8f5fdb255ccbb9fb3",
+                "Relevance": 0
+            },
+            {
+                "Document": "On the other hand, SRC activation by BCAR3 (30, 32) has been recently shown to promote phosphorylation of the Tyr-789 motif of PTP , a receptor-type phosphatase that can potentiate SRC activation by dephosphorylating its inhibitory Tyr-527 phosphorylation site (37).",
+                "Paper ID": "aab326884c65b09274891f94f71d3cb620346f87>76c45f67dcb8a9299c0a191cf611d551a8148921",
+                "Relevance": 0
+            },
+            {
+                "Document": "A contribution of MiRP1 to native IKr is debatable however (28, 29), and it has been suggested that MiRP1 is unlikely to associate significantly with hERG in areas of the heart outside of the conduction system (30, 31).",
+                "Paper ID": "1cbedc59c31716e8bf2add293bb374b58c5232c7>e5cfd00eaba9082058f261d40808b0041164ed45",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "For \u0152\u2264 diversity and principal coordinate analysis (PCoA), all quality-trimmed reads were used for Morisita Horn (Horn, 1966) (non-phylogenetic) distance calculation for fungi and weighted/unweighted UniFrac (Lozupone and Knight, 2005) distance calculation for bacteria.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "\u2026including slope of the landscape and distance to road (Fortin et al. 2005), habitat diversity (Boyce, Mao & Merrill 2003), habitat openness (e.g. Creel & Winnie 2005; Proffitt et al. 2009), snowpack and elk density (e.g. Gower et al. 2009; Proffitt et al. 2015), and predation risk from wolves\u2026",
+                "Paper ID": "21c7fa119032c976a89625081e9fc8497aadf520>dbcb2c6cbf1ce8aa365028b1437e918b30e5e0a5",
+                "Relevance": 1
+            },
+            {
+                "Document": ", 2010), Symfeat (SYM for short) dataset (Hauagge and Snavely, 2012) and VGG dataset (Mikolajczyk and Schmid, 2005).",
+                "Paper ID": "55c6181ad66a1086badffb379502d7b062037bbb>3824a648507000b7f319b9bf2ec0b7d07bcdfee4",
+                "Relevance": 0
+            },
+            {
+                "Document": "\u2026to Zeilberger (1990), Chyzak (2000) and Koutschan (2013) for the holonomic approach, to Wilf and Zeilberger (1992), Wegschaider (1997) and Apagodu and Zeilberger (2006) for the multi-sum approach, or to Schneider (2005a, 2008, 2010c, 2015) for further refinements of the difference field approach.",
+                "Paper ID": "21c44db71f8965dd970ffa23bcda403fdb306aba>7fa4f05dd489b6dd03065069f660c89328337e18",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "These results are in agreement with those reported previously by Frankic et al. (2008) indicating that vitamin E supplementation (100 mg/kg) did not improve growth performances of piglets fed a diet contaminated with DON at 4 mg/kg.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Hissink et al. (1997) also reported that elimination of 1,4-DCB via the lungs was less than 1% in rats orally dosed p-DCB (10\u2013250 mg/kg body weight).",
+                "Paper ID": "8384fd8ad01b0a5f310ca355d07610d147f7be77>5e0a8d84a299dc7e6902020b8e40dbd0a25be15a",
+                "Relevance": 1
+            },
+            {
+                "Document": "Vitamin A supplementation in malnourished children reduces the severity of diarrheal disease (4), malarial morbidity (5), measles (6, 7), and mother-to-child transmission of HIV (8).",
+                "Paper ID": "9ce909dc3a55c00bde287c27f0128d8ee7648b83>6df615b3c555ee61dee9fa6079f905466ed2fb8f",
+                "Relevance": 0
+            },
+            {
+                "Document": "Results are expressed as percentage of control (OD at 405 nm measured by cell ELISA of unstimulated cells), arbitrarily set at 100%.\ncell line (Wuthrich and Sekar, 1993).",
+                "Paper ID": "34ca39c05705b98ca3cff26d2e579f26836327f7>6c1b814510a75fe567702e152dc5d1f9059618d2",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Whereas standard meta-analyses evaluate the relative efficacy of just two treatments based on head-to-head trials only, NMA comprises an extension of these methods in which treatment effects are calculated for a network of treatments [25-27].",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "Timing and doses of anti-NGF treatment were chosen on the basis of previous studies that confirmed the efficacy of this antibody in blocking NGF biological effects in our rat model (15).",
+                "Paper ID": "e9cb466973929d483eb4249af8fda3dfdb63f517>cce2b514dffae887bd629f6e84bd53d784d53927",
+                "Relevance": 0
+            },
+            {
+                "Document": "The Framingham CAD risk scores (FCRS), and the relative and absolute risks of CAD, were calculated according to an algorithm based on a seven variables equation [30].",
+                "Paper ID": "2bc09135b235c7526b010e483b322ee788ee3b37>6236cf95005ae3b7f04f333e25ea8c9fdf4672ef",
+                "Relevance": 0
+            },
+            {
+                "Document": "LMM is an extension of typical linear regression analysis which includes random effects in the structure of the mean rather than the fixed effects.([17,19,25,26]) LMM was used to determine factors affecting growth trends over time.",
+                "Paper ID": "969d3fc2e1fda17609d6bda20a1a13b810b26dec>85553083d35703d05720f0ad12d9b7cf93e66ead",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Left atrial volumes were derived with the method of discs (29) and, when possible, estimation of pulmonary artery systolic pressure was obtained with the tricuspid regurgitant jet (30,31).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "High BP induces structural and functional alterations, mainly in the form of left atrial enlargement.(7) Therefore, left atrial size is a recognized risk factor for AF and stroke.",
+                "Paper ID": "2c13456115cd6e83130cbc7c0b15a38e97f4169b>57e27ebbe6e343ad629d80fedc8b22b6f7eb1978",
+                "Relevance": 0
+            },
+            {
+                "Document": "Similarly, we have recently found that coculture of pulmonary arterial ECs (PAECs) with pulmonary arterial SMCs (PASMCs) results in formation of myoendothelial gap junctions, which induce activation of TGF- signaling and differentiation of the PASMCs toward a contractile phenotype (21).",
+                "Paper ID": "937444dc1ba977382b4c92eb9eab8518401fe154>156fb7b12ac3780dc3135685202f9ca520b99d21",
+                "Relevance": 0
+            },
+            {
+                "Document": "The pressure-intercept is fixed at 140 GPa, derived from the inflection pressure of SiO2 glass reported by Murakami and Bass (2010).",
+                "Paper ID": "fb42dd12354e6964f9dafa61d491be22e14ba2cd>0ab1037b498a9c0fa5746d0330e8dcef5db71133",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "These results of forest recovery are on a par with the national trend of reforestation and increase in forest cover [5,100,101] and the general consensus in India that PAs are successful in maintaining forest cover [25,52].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "The high numbers of all three species found in MT confirm the importance of this large, lowland forest block for primate conservation and further support the proposal to restore the Mngeta conservation corridor between US and Iyondo forest, a lowland to montane forest that is contiguous with MT (Rovero et al. 2012; St. John 2008) and is currently under gazettement as forest reserve (N.",
+                "Paper ID": "1e07b16fb589780721887f60271a8b1c2868fb8b>40c5741dc18ca03e625306b5bbf6622d097176a3",
+                "Relevance": 0
+            },
+            {
+                "Document": "The persistence of arctic ground squirrels in the low elevation-meadow and alpinemeadow habitats in 2008\u201310, and the simultaneous extirpation of ground squirrels from the boreal forest since 1998 (Donker and Krebs 2011), provides supportive evidence that the boreal forest is functioning as sink habitat for arctic ground squirrels.",
+                "Paper ID": "7ad0af58892ab0248c046627d2e343882c5abf39>93504374d942ba75b7ebb8a5087c6cf9ee0ff6e6",
+                "Relevance": 0
+            },
+            {
+                "Document": "\u2026squirrels in the low elevation-meadow and alpinemeadow habitats in 2008\u201310, and the simultaneous extirpation of ground squirrels from the boreal forest since 1998 (Donker and Krebs 2011), provides supportive evidence that the boreal forest is functioning as sink habitat for arctic ground squirrels.",
+                "Paper ID": "7ad0af58892ab0248c046627d2e343882c5abf39>93504374d942ba75b7ebb8a5087c6cf9ee0ff6e6",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Numerous studies have used the PGSI (e.g., Phillips et al. 2011; Rockloff and Dyer 2007; Wardle et al. 2007, 2011a) and it has been shown to have good psychometric properties, examining gambling involvement, problem gambling behaviour, adverse consequences, and problem gambling correlates (Ferris\u2026",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Today, naltrexone is often considered an effective and recommendable medication for gambling addiction (Grant et al., 2003; Kim, Grant, Adson, & Shin, 2001; National Center for Responsible Gambling [NCRG], 2009; Problem Gambling Research and Treatment Center, 2011).",
+                "Paper ID": "a1804dd2c14514c7a440be7951fada717fcfe403>0bfc2a340602e97488223ea93b4e5526bae91092",
+                "Relevance": 0
+            },
+            {
+                "Document": "Previous studies have shown that consumers are able to discern different applications of a category of emerging technologies (namely various products of nanotechnology) and have different attitudes about risks, benefits, and labeling for those applications (e.g., Brown and Kuzma 2013; Siegrist et al. 2007).",
+                "Paper ID": "374ea9e57080f052207cf4670c270a0fab22aa94>020fbe47aa5d100ab9ab8a4f10bd44bebc07c31f",
+                "Relevance": 0
+            },
+            {
+                "Document": "\u2026studies have shown that consumers are able to discern different applications of a category of emerging technologies (namely various products of nanotechnology) and have different attitudes about risks, benefits, and labeling for those applications (e.g., Brown and Kuzma 2013; Siegrist et al. 2007).",
+                "Paper ID": "374ea9e57080f052207cf4670c270a0fab22aa94>020fbe47aa5d100ab9ab8a4f10bd44bebc07c31f",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "We choose the NYU dataset to conduct ablation experiments and compare against the baseline methods since it has a wider coverage of hand poses as opposed to the other two.",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "Specifically, we compare our methods against V-MDAV [35] because it is the most similar method to MDAV and its variant CBFS.",
+                "Paper ID": "2ac4af430442bf68bd401e613e9df5b29df4c7aa>f1f4c4f5925215ab27570f1040b1b9c95b507948",
+                "Relevance": 1
+            },
+            {
+                "Document": "The Real-time PCR has many other wider applications in other areas of research, such as microbiology, biotechnology, diagnostics and molecular medicine (Nolan et al. 2006).",
+                "Paper ID": "dff972e602bf60a30b7320e6a15e17e5bfe0b33a>8f880cf23c0896a0f58592cc696fbc577df95513",
+                "Relevance": 0
+            },
+            {
+                "Document": "Specifically, we use the renderings from [6] since it contains a large number of images from various viewpoints and the camera model has more degree of freedom.",
+                "Paper ID": "bd36544bfecd5b9ea58d0eab186968b3c9d181aa>9a01ad5d531d9662795f4d65fdf4c06116dc871c",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Blunted or negative force-frequency behavior (18, 21), reduced -adrenergic response (4), and impaired calcium handling (9, 10) are hallmarks of end-stage heart failure.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "It was shown, for example, that the transcription and translation of genes that participate in antioxidant machinery (8), DNA repair, and cell cycle regulation are required for the adaptive response in human lymphocytes and fibroblasts (9, 10).",
+                "Paper ID": "a7c799ae8f18437be7435f75153629f208d4dc34>22f3b2d06f3853fa007d0fb5d5ab04839bca8e0e",
+                "Relevance": 1
+            },
+            {
+                "Document": "atherosclerosis, thrombosis and Systemic Inflammatory Response Syndrome (SIRS)(4, 61).",
+                "Paper ID": "a4fe084ba1aba752abdf3701122076da29a4e4fd>c1930f45d13981c15ad652c731434535fa597578",
+                "Relevance": 0
+            },
+            {
+                "Document": "A reduced clearance capacity of triglyceride-rich particles from the plasma could be the result of reduced efficiency of endovascular lipolysis due to reduced levels of lipoprotein lipase (10, 14), abnormal lipoprotein particles (15), or elevated levels of apoC-III (16\u201318).",
+                "Paper ID": "fc696f76e0f779e40d825890dbb25e9e47ca4b48>5ce3f04999476cd3a1af82202ca8f511a2f4b6fc",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "There is no consensus on whether the ABB alterations during laparoscopic operations are metabolic or respiratory in origin, nor is there agreement on the principal mechanisms responsible for these changes [1, 3, 5, 7, 10, 18, 21].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "On the other hand, there are research works on the design of graph-based routing algorithms [3], [16], [17], [18], [19], [20], [21], [22], [23] to deal with the void problem.",
+                "Paper ID": "6080347a6d897777620ee32cc4d7e6bfb2023e43>9ef0163c8ac0567e31f2ef4c9774373a350d0a2f",
+                "Relevance": 0
+            },
+            {
+                "Document": "There are now several papers (for instance [12, 3, 4, 5, 6]) with bounds polynomial in the number of variables concerning the quadratic case.",
+                "Paper ID": "1c20bf34d0840f1c46b9a64cda3b7d93b057895d>09aeb344a62b1b6f8b0908da2b392e7624668171",
+                "Relevance": 1
+            },
+            {
+                "Document": "Although there have been reports of successful surgical repair for branch PA stenosis, there are few data on results beyond the acute outcomes [2, 3, 6, 14].",
+                "Paper ID": "3e6b383fc1d824daf180c5d4df85ecffb8ba5f1b>f62ca67b1d944e7d0002dcd74abf6272e27a37fa",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "The technique adopted was that of Ravitch21 modified by Robicsek et al.22\nThe proposed statistical study was as follows: sample distribution tests (KS normality test; D\u2019Agostino & Pearson\nnormality test; Shapiro-Wilk normality test).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "A closed-loop relay test scheme was proposed in [15] which identifies directly the crossover frequency (the frequency at which the loop gain is equal to 1).",
+                "Paper ID": "63526aacb6b03c7b216d29036536c8c36227573a>8ace7966ec465b856fa34081ab5915004970a556",
+                "Relevance": 0
+            },
+            {
+                "Document": "This dose of D1 antagonist was previously shown to suppress the increase in locomotor activity measured in the open-field test, induced by BC264 (Ladurelle et al. 1997).",
+                "Paper ID": "a59f7c6100b3d98f954df6818f8db75bbd0f7190>4f2995a132469538424300d92e3eeb65aa7ac497",
+                "Relevance": 0
+            },
+            {
+                "Document": "A fraction of the splenocytes was cultivated in order to test the supernatants for antibody response in ELISA.(29) Only the culture supernatant from C3H/J splenocytes indicated the presence of TFbinding antibodies (data not shown).",
+                "Paper ID": "24d8202fcb74397452f29536b267d0f0630a1a76>784acbccdfa778c65f9f69a36a3d55d92d4a4d33",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "The most common value in literature used is the correlation coefficient rcor between the predicted and the experimental data (Ota et al. 1995; Gilis and Rooman 1996, 1997; Guerois et al. 2002; Zhou and Zhou 2002; Bordner and Abagyan 2004).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Other sources of MF and SB input to the GCD are the lateral reticular nucleus, the pontine nuclei and inferior olive (Weinberg and Rustioni, 1987; Zhou and Shore, 2004; Ryugo et al., 2003), as well as the contralateral CN (Zhou et al., 2010).",
+                "Paper ID": "b0d4b3642acafecd9c073d9e3c9fb9b5793a1262>7f245e59cfd419b97cc54729bd733cc86af51978",
+                "Relevance": 1
+            },
+            {
+                "Document": "1996, 1997), and the main metabolite of p-DCB is 2,5-DCP, which is excreted both as the free substance and in conjugated forms (as sulfate or glucuronide) in the urine (Azouz et al. 1955; Kimura et al. 1979; Hawkins et al. 1980; Klos and Dekant 1994; Hissink et al. 1997; Bomhard et al. 1998) and to some extent in the feces (Kimura et al.",
+                "Paper ID": "8384fd8ad01b0a5f310ca355d07610d147f7be77>5e0a8d84a299dc7e6902020b8e40dbd0a25be15a",
+                "Relevance": 0
+            },
+            {
+                "Document": "Another clinically important feature is the length of the MBs, sometimes referred as the width (Mohlenkamp et al. 2002; Ozbag et al. 2002; Ozbag and Kervancioglu 2004).",
+                "Paper ID": "6ac4a33dcce8c8821ffd16c1f8d4d23a27f4a506>6186e70a6bc014d7d5b82a4649574ef25e7b7ec0",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "To determine if CBP phosphorylation at Ser436 is required for GNRH stimulation of LH promoter activity, L T2 cells were transfected with a vector expressing either full-length wild-type CBP or the mutant S436A CBP.",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "CBP adds to its input layer an extra node having an input of the sum of the squared input components [1, 2].",
+                "Paper ID": "c269178f7ae596d22259648f0a75a4625059dfcf>3bc42f4bd59de4df802f2d86c962508dc074893a",
+                "Relevance": 1
+            },
+            {
+                "Document": "Chinese hamster ovary (CHO) cells were stably transfected with either the human TNF-a gene cloned into a mammalian expression vector (TNF-a cells) or the mammalian expression vector alone (CHO cells, control) as described previously (5, 7, 8).",
+                "Paper ID": "485f72716107144d88adb6ca69e11442c22f77f0>75d2b3db545c7b19b06f255752c72cc731c66ae6",
+                "Relevance": 0
+            },
+            {
+                "Document": "For the wild-type receptor, the P119L mutant, the F122G mutant, and the T197A mutant, stably transfected cell lines were selected and assessed, as previously described (3).",
+                "Paper ID": "a2580213e98f7e52ca6deaf2350f35337918b5de>f756821621011ae527d578399406bb1cc48b4068",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Immediately after the meal ingestion, serial images showing the distribution of the ingested radioactivity over the anterior views of the abdomen were taken every 5 min for the first 30 min and thereafter every 10 min for 180 min, according to a protocol described by others [7].",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "Effects of CACC inhibitors were analyzed by the following four-parameter logistic function: y min (max min)/[1 (x/IC50) Hill slope], where min and max are the bottom and top of the curve, respectively, IC50 is the concentration of half inhibition of block, and the Hill slope is a reflection of the steepness of the curve.",
+                "Paper ID": "b9f16a5d74c6c42f2c5f5a6c3f6aaeaaf5de9b13>28e8f78fd591c5895ec5fc4b6732943f58c9f626",
+                "Relevance": 0
+            },
+            {
+                "Document": "Using simulations based on our PK model, we designed an infusion protocol of two consecutive constantrate infusions, the first of 125 mg kg 1 h 1 for 15 min followed by 25 mg kg 1 h 1 with the subjects at rest for 35 min, thereafter continuing the infusion during exercise until this phase was terminated by subject fatigue [2\u20134].",
+                "Paper ID": "d8fb5c6e78bba8996decf03fbcd14569e3fcd790>c0cb8a1b4d4f4b5fbf381a5b320d291c94a92525",
+                "Relevance": 0
+            },
+            {
+                "Document": "The rules used in the fusion of the classifiers were Sum , Product, Min andMax rules [10].",
+                "Paper ID": "47d121a5106e3c5683d2bc8415b9a1c15fced71e>54801c260df5221a9de533d371d3edcc358b4050",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "The box-particle filter was studied and explained through the Bayesian perspective by interpreting each box particle as a uniform probability density function (PDF) [10].",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "The LDA parameters were estimated through variational Bayesian inference as described in Blei et al. (Blei, Ng, and Jordan 2003).",
+                "Paper ID": "33e79061345188ee7e6a92597023e376e455720f>1e56ed3d2c855f848ffd91baa90f661772a279e1",
+                "Relevance": 0
+            },
+            {
+                "Document": "A filter for identifying RCTs recommended by the Cochrane Collaboration [15] was used to filter out the nonrandomized studies in MEDLINE and Embase.",
+                "Paper ID": "55809809b17f46b3c5296b16cf8a6a14c2a4bbb2>3ef88a5a85e2134fe9d2f1297b0d2b813852ba60",
+                "Relevance": 0
+            },
+            {
+                "Document": "It had 2565 (2805) states optimized with the variational Bayesian estimation and clustering (VBEC) technique (Watanabe et al., 2006) and each state had 32 (32) -mixture Gaussian pdfs.",
+                "Paper ID": "57e28080a733d90edcd63f00f6037639ea6b6cea>20a2448efbe3394b89570002eb167becc423bcd0",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "This pattern of response is consistent with previous results reported in the literature (Kokel et al. 2010; MacPhail et al. 2009; Padilla et al. 2011).",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "These values are consistent with previous studies (Akiyama et al. 2010; Liu et al. 2009; Wilson et al. 2011).",
+                "Paper ID": "95842d1ed8a4e4d1808bb343cb3b4078823fb79d>33976351c24ef6de484024ceb0dad2c75f7b56a6",
+                "Relevance": 1
+            },
+            {
+                "Document": "These current results therefore extend previous studies that have reported discrepancies in pain perception following manipulated representations of the body (Ramachandran et al. 2009; Preston and Newport 2011) independent of the influence of pure response bias (Romano and Maravita 2014; Mancini et al.",
+                "Paper ID": "f3ff5cb17683884651c60da41e3594d346e90915>3ac571db14305f1e0c76feab5e03d2ca70cf0c76",
+                "Relevance": 1
+            },
+            {
+                "Document": "This beneficial outcome of Nigella Sativa came in accordance with the results of Hildrum et al. ( 2007); Najmi et al. (2008) and Parhizkar et al. (2011).",
+                "Paper ID": "b09c60cf0fe5d5c843384b8ee7ac9c6da386a70c>None",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "PESI, echocardiogram, CTPA, and NT-proBNP as risk stratification 016), http://dx.doi.org/10.1016/j.ihj.2016.07.010\n A. Vamsidhar et al. / Indian Heart Journal xxx (2016) xxx\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a8xxx6\n Mean Qanadli scores were 12.6 and 10 in the reports by Apfaltrer et al.34 and Araoz et al.17 respectively while in our study it was 19.37.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "108, 11262\u201311267. doi: 10.1073/pnas.1011284108 Calvert, G. A., and Thesen, T. (2004). Multisensory integration: methodological approaches and emerging principles in the human brain. J. Physiol. Paris 98, 191\u2013205. doi: 10.1016/j.jphysparis.2004.03.018 Calvo, J. M., Datta, S., Quattrochi, J., and Hobson, J. A. (1992). Cholinergic microstimulation of the peribrachial nucleus in the cat. II. Delayed and prolonged increases in REM sleep. Arch. Ital. Biol. 130, 285\u2013301. Cartwright, R. D. (2010). The Twenty-four Hour Mind: The Role of Sleep and Dreaming in Our Emotional Lives. Oxford: Oxford University Press, 37\u201338. Castro, S., Falconi, A., Chase, M. H., and Torterolo, P. (2013). Coherent neocortical 40-Hz oscillations are not present during REM sleep. Eur. J. Neurosci. 37, 1330\u2013 1339. doi: 10.1111/ejn.12143 Chalmers, D. J. (1996). The Conscious Mind: In Search of a Fundamental Theory. New York: Oxford University Press. Chawla, D., Lumer, E. D., and Friston, K. J. (1999). The relationship between synchronization among neuronal populations and their mean activity levels.",
+                "Paper ID": "105d041e14246f612cd0da6323c15047412c378b>8d4f202354bf0fd1bd445792340e16acc042ec6d",
+                "Relevance": 1
+            },
+            {
+                "Document": "Brazilian Journal of Medical and Biological Research (2015) 48(7): 654-664, http://dx.",
+                "Paper ID": "73010070be7c056e9fcae807de3b37bb5b21b3f2>1afbcad28b42ba956bbbe31ee768d36bd94c61b5",
+                "Relevance": 0
+            },
+            {
+                "Document": "The incidence of 12.5% Cronobacter contamination of PIF in Malaysia was almost in agreement with reports of Cawthorn et al. (2008) and Witthuhn et al. (2006) who found the prevalence of Cronobacter in South African PIF were 14 and 18%, respectively.",
+                "Paper ID": "049b42404789093f7f9250dc8d01f8506ead8084>8ef70d9f439ba4acdddb480b6b6a4f3165dae7d0",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "On the contrary, in T. foetus, full enzyme activity requires Mg2+, but Mn2+ can yield half maximal activity (Dinbergs and Lindmark 1989).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "It was suggested that the protective and rescue effect of ( )-deprenyl is unrelated to the inhibition of MAO-B enzyme activity (Finnegan, 1990; Ansari et al., 1993).",
+                "Paper ID": "0f29b8d0084367852eef5a385b888b76d5983136>7dddb340d37fb56c3460e8c24b3009182d4c1fc2",
+                "Relevance": 0
+            },
+            {
+                "Document": "This, in turn, leads to reduction in the lumen-positive electrical potential in this nephron segment, resulting in increased urinary Mg2+ and Ca2+ (Riccardi & Brown, 2010).",
+                "Paper ID": "0ed650537491e0021858c14a438f8816f5edf737>20d81dddf30422a00d537ecbfc62bcae664774cd",
+                "Relevance": 0
+            },
+            {
+                "Document": "The action of this saline on VSMN spike rate, membrane resistance, and premotor activity was discussed in a previous report (Krans and Chapple 2005).",
+                "Paper ID": "5227ec6b6b9e6630d3eec53e8784b1d43b97febf>61ba484c3fd142d5ddf606eae1a549fe29594208",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Quantification of the regional glucose accumulation can be performed by PET and correlates with regional synaptic activity (Otte and Halsband, 2006).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": ", Behera and Yamagata, 2001; Reason, 2002), as well as links between the SST anomalies across the eastern Indian Ocean and regional rainfall (Nicholls, 1989; Frederiksen and Balgovind, 1994; England et al., 2006; Ummenhofer et al., 2008c).",
+                "Paper ID": "c1a85696bc2faf53a535afd601ae746287183666>2640c22781cc90ee4adfc3274d91bee624a13977",
+                "Relevance": 1
+            },
+            {
+                "Document": "During the uplift of the Tibetan Plateau, river captures and flow reversals caused regional extension of the Yangtze River basin to the eastern Tibetan Plateau (Clark et al. 2004; Fan et al. 2005).",
+                "Paper ID": "96cf8b3d7ec8128f3b25f4a331497e148c350643>f603bfc6c061a230f5a77b1fe44f9b8cf78d917d",
+                "Relevance": 0
+            },
+            {
+                "Document": "\u2026Webster et al., 1999) and the subtropical Indian Ocean (e.g., Behera and Yamagata, 2001; Reason, 2002), as well as links between the SST anomalies across the eastern Indian Ocean and regional rainfall (Nicholls, 1989; Frederiksen and Balgovind, 1994; England et al., 2006; Ummenhofer et al., 2008c).",
+                "Paper ID": "c1a85696bc2faf53a535afd601ae746287183666>2640c22781cc90ee4adfc3274d91bee624a13977",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "We used an adaptive spectral subtraction algorithm, optimized for each subject to remove MR gradient noise [Nelles et al., 2003].",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "For each subject, whole brain fiber tracking (an interpolated streamline propagation algorithm) was performed in the DTI native space using TrackVis (Schmahmann et al. 2007).",
+                "Paper ID": "4e96d5fc69025d76adaa96e03553157127a30873>18dfa65e2cc4b8fb492383d38e8556712e57e287",
+                "Relevance": 0
+            },
+            {
+                "Document": "For each condition, the magnitude of luminance or chromatic increments was set by the adaptive QUEST algorithm (Watson & Pelli, 1983).",
+                "Paper ID": "54a9b9c31abe2f6f73eedaea2135b6421e568894>2635cce2cce940f5d19465db8c5ab14b992515d4",
+                "Relevance": 1
+            },
+            {
+                "Document": "\u2026the AN model, each of which has been tested against physiological responses from cats to simple and complex stimuli, including tones, two-tone complexes, broadband noise, and vowels (Carney 1993; Heinz et al. 2001; Zhang et al. 2001; Bruce et al. 2003; Tan and Carney 2003; Zilany and Bruce 2006).",
+                "Paper ID": "e149683783a32667a44f90d701564426fb00a396>8841f5a7863f04826028553a985c67f2424148eb",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "The minor contribution of PtdIns(3)P to endosome biosynthesis in this protist, which was also previously shown (Powell et al., 2006), is in sharp contrast to mammals and yeasts, where PtdIns(3)P localizes to endosomes and multivesicular endosomes (Gillooly et al., 2000).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "\u2026shows early termination of vascular elongation, while the cvl1 mutant resembles wild type, suggesting an unequal redundancy in which CVP2 plays a more significant role in PtdIns(4,5)P2 degradation and PtdIns(4)P production (Carland and Nelson, 2009; Carland et al., 1999; Carland and Nelson, 2004).",
+                "Paper ID": "1cb10d6d52502084cb4d8e00111d0ed8955b98ac>7d32e3cb0dbcf2ea9e82747629d6ed929fcb94f3",
+                "Relevance": 1
+            },
+            {
+                "Document": "However, CVP2 has higher catalytic activity than CVL1 in vitro and the cvp2 mutant shows early termination of vascular elongation, while the cvl1 mutant resembles wild type, suggesting an unequal redundancy in which CVP2 plays a more significant role in PtdIns(4,5)P2 degradation and PtdIns(4)P production (Carland and Nelson, 2009; Carland et al., 1999; Carland and Nelson, 2004).",
+                "Paper ID": "1cb10d6d52502084cb4d8e00111d0ed8955b98ac>7d32e3cb0dbcf2ea9e82747629d6ed929fcb94f3",
+                "Relevance": 0
+            },
+            {
+                "Document": "PI(3)P is also a crucial component of autophagosomal membranes (Roberts and Ktistakis, 2013) and was recently shown to be required for actin assembly at phagophores (Mi et al., 2015).",
+                "Paper ID": "4b7fb669b26ad84ad0e373d2f86c092e4d484de0>cac61585d7387b0bc03739e06a69413021094014",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "To this end, we use the 50 documents dataset from Lee et al. (2005) (LP50) which is widely-used for evaluating semantic document similarity and thus enables us to compare our method against other state-of-the-art systems.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "\u2026knowledge base\nKBP knowledge base population\nKG knowledge graph\nLSA latent semantic analysis\nLOD linked open data\nLP50 50 documents dataset from Lee et al. (2005)\nLTR learning-to-rank\nMRF Markov random field\nNLP natural language processing\nOIE open information extraction\nPOS\u2026",
+                "Paper ID": "d76876495f20493243bb862fce467534226c8bd5>28db8ff78fd0596dcac6b8190390f7eb41ea9d3f",
+                "Relevance": 1
+            },
+            {
+                "Document": "After divergence from chicken, the mammalian lineage acquired three additional 50 noncoding exons that lack\nsequence similarity to exon 1c. Exon 1a is derived from LINE element sequence (Drews et al. 2005).",
+                "Paper ID": "2417526934446d81023af49f27bb7f52044bcb78>73f36294b5992a53e4f075e384fe30a13c629bb4",
+                "Relevance": 0
+            },
+            {
+                "Document": ", 2010), Symfeat (SYM for short) dataset (Hauagge and Snavely, 2012) and VGG dataset (Mikolajczyk and Schmid, 2005).",
+                "Paper ID": "55c6181ad66a1086badffb379502d7b062037bbb>3824a648507000b7f319b9bf2ec0b7d07bcdfee4",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Peripheral blood from the volunteers was collected and PBMC were isolated by density gradient centrifugation over Ficoll-Hypaque (Pharmacia, Uppsala, Sweden)(16).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "A third species, Porites astreoides, was only collected from ADM and NNP in Florida and the Bahamas, respectively (Thornhill et al. 2006a).",
+                "Paper ID": "ce0af1f5dc558ccce6483b598b49fd8871349c6d>545b378bc2f2937330d61c184650ea4060071d75",
+                "Relevance": 0
+            },
+            {
+                "Document": "The final species, Siderastrea siderea, was collected from both Floridian reefs and at\nNNP in the Bahamas (Thornhill et al. 2006b).",
+                "Paper ID": "ce0af1f5dc558ccce6483b598b49fd8871349c6d>545b378bc2f2937330d61c184650ea4060071d75",
+                "Relevance": 1
+            },
+            {
+                "Document": "Typically however, when a fungus was isolated from a seed, it was the only isolate, and roughly 74% seeds were free of all culturable fungi (Shipunov et al., 2008).",
+                "Paper ID": "5ddd341c20f323d736e9b3899ad20561c9bdbeea>8f2cfced117e54b3e1ba97b0e43f34e0ec747952",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "These substances are not representative of the data used in setting the values for the Cramer classes [11,12].",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "These values lie in the range of average moment arm values for the index finger reported in An et al. (1983) and Valero-Cuevas et al. (1998).",
+                "Paper ID": "2f2b181b12b2d300d5364254b35d84d072c6a16f>c8b1fea5b3a0c8690de1cdf78bc97d9f9cd87b8d",
+                "Relevance": 0
+            },
+            {
+                "Document": "Longini et al. (2004) used values that were similar to these estimates in a stochastic simulation model of pandemic influenza to show that the targeted use of oseltamivir in close contact groups could slow the transmission of influenza on the community level.",
+                "Paper ID": "0d2ec8e620a344214571d1bf5060d104bb3213e5>7d9b53587346bfaeabdd5450dc2e6dbdccb2f644",
+                "Relevance": 1
+            },
+            {
+                "Document": "Mean follow-up IOP measurement was obtained by averaging the IOP measured at 6-month intervals, and IOP fluctuation was determined using the SD of these values.(4) When patients underwent incisional glaucoma surgery or laser trabeculoplasty, the IOPs measured within 3 months posttreatment were not included in the calculation.",
+                "Paper ID": "bd8514d60c162f1b188194b053a65433a126b6e6>32aaab3cbdbb16cf15ca0dcea1ca42fc393c6f75",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "The dopaminergic hypothesis of polydipsia is somewhat consistent with the DA supersensitivity hypothesis of tardive dyskinesia (TD) (Jones 1984; Raskind et al. 1975; Shen and Sata 1983; Smith and Clark 1980).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "\u2026more accurate depiction of epidemiological findings supporting the core group hypothesis (Rothenberg 1983; Potterat et al. 1985; Zenilman et al. 1999; Bernstein et al. 2004), and resolves some of the prior ambiguity about what constitutes the core group for STI transmission (Thomas & Tucker 1996).",
+                "Paper ID": "48793a345eacc733e0e3dd51cb0cafd56baf101f>990f0494d4f46e43bdb76415e8524ce591902792",
+                "Relevance": 0
+            },
+            {
+                "Document": "2005) without reservation and none of the features invoked by Jaeger et al. (1999) have been reassessed or challenged in detail, with the exception of the character analysis by Gunnell and Miller (2001). This defining list of traits overlaps considerably the battery of features long used to support the adapid-anthropoid hypothesis and now regarded as likely convergences (e.",
+                "Paper ID": "9242171373f7b6fda7bb414c78bffabb73a31ac0>7625e01b6737feac8b8602fc2f8e685ae4c178dd",
+                "Relevance": 0
+            },
+            {
+                "Document": "2005) without reservation and none of the features invoked by Jaeger et al. (1999) have been reassessed or challenged in detail, with the exception of the character analysis by Gunnell and Miller (2001). This defining list of traits overlaps considerably the battery of features long used to support the adapid-anthropoid hypothesis and now regarded as likely convergences (e.g., Rosenberger et al. 1985). Kay et al. (2004) also added to the basic argument of Jaeger et al.",
+                "Paper ID": "9242171373f7b6fda7bb414c78bffabb73a31ac0>7625e01b6737feac8b8602fc2f8e685ae4c178dd",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "\u2026chemotaxis and phagocytosis (Rossbacher et al. 1999); initiation of MYD88-dependent inflammatory processes (Shen et al. 2012); suppression of T cell proliferation and inhibition of cytokine release (Arredouani et al. 2003); and regulation of mast cell proliferation (El-Ghmati et al. 2002).",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "The RDCs have been successfully applied in the refinement of protein structures (Stauffer et al. 2002), nucleic acids (McCallum and Pardi 2003) and protein\u2013 RNA complexes (Bayer et al. 1999).",
+                "Paper ID": "ea866a474d9e467842717c6de0e3d1caf2afa12f>3592758c337458c29b4f5268f31cf6decb542e0c",
+                "Relevance": 0
+            },
+            {
+                "Document": "Instead of using the single fuzzless locus mutant developed mapping populations (Rong et al. 2005, 2007; Zhang et al. 2005; Guo et al. 2006; Wan et al. 2007), the common female parent line of the two F2 populations we developed combined at least two fuzzless loci (N1 and n2, and probably n3) (Turley and Kloth 2002).",
+                "Paper ID": "27a87d0e843c863b59d0053ef4d6aa5afe470f97>4de0d7c959f881c3e43be54562d60af0172cefbf",
+                "Relevance": 0
+            },
+            {
+                "Document": "\u20262009), compare the quality of association measures through mean average precision (Evert and Krenn 2005), compare different methods (Pearce 2002; Ramisch et al. 2008a), and measure the impact of acquired MWEs on NLP applications (Finlayson and Kulkarni 2011; Xu et al. 2010; Carpuat and Diab 2010).",
+                "Paper ID": "757d49e6dea40a7131d972186f5c3295c9bc4ccc>99c6174c0997f772d774f5a49ea1af01253ed944",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "The proof-procedures to implement the operational models are the SCIFF [3] for interaction verification and CIFF [62] for temporal reasoning and planning, both of them extensions of Fung and Kowalski\u2019s IFF abductive proof-procedure [78], and Gorgias [103] for preference reasoning and deliberation, based on LPwNF [50].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Indeed, the non-monotonic reasoning community has continuosly produced, in the past, several extensions of nonmonotonic logic languages, aimed at improving readability and easy programming through the introduction of new constructs, employed in order to specify classes of constraints, search spaces, data structures, new forms of reasoning, new special predicates [2, 9, 18], such as aggregate predicates [4].",
+                "Paper ID": "0d0cb2b39eaf2763c6bcefb6a73f63e8d3d93a02>55942cd828e2aa86db8b1c9a6cf329e20de5a3fb",
+                "Relevance": 1
+            },
+            {
+                "Document": "Among the most successful are Spectral Sequencing [62], Optimally Oriented Decomposition Tree [6], Multilevel based [68], Simulated Annealing [79, 78], Genetic Hillclimbing [81] and some of their combinations.",
+                "Paper ID": "20bc43ea033d4eb0d839008ec3f4b95a18e1900a>7521fb518eeac5390b00db03fd920a2731622255",
+                "Relevance": 0
+            },
+            {
+                "Document": "Twelve studies [3, 11, 15, 44, 50, 56, 60\u201362, 67, 69] reported incorporating some form of cultural adaptation salient to AAs including recruitment of only AA participants [60\u201362, 67], culturally specific diet and PA modifications [3, 11, 50, 56, 60, 61, 67], cultural sensitivity training for research staff [44, 56], employing AA case managers and interventionists [3, 11, 50, 60, 67], special attention to religion and spirituality [60, 62], AA community-focused field-trips to grocery stores, parks, and so forth [50], selection of study site in anAA community [67], and the formation of a minority implementation committee [56].",
+                "Paper ID": "649da5dc00caf98ed897ade21a16e625ec328d6c>13addfbdfeb738a413365e3df0904a39416aa7ba",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "The participants submitted their approaches as executable software to TIRA [13, 39], where they were executed against the test datasets hosted there.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "As ectotherms, they are active and feed during the cooler times of the day, usually from dawn until mid-morning and from mid-afternoon until dusk [39], [40], [41].",
+                "Paper ID": "112182f0d1c9d900ff54fe4c6cc05abbafa20c66>9dee797bc8d8798a48c2defb4c91efc3b8ec5fe9",
+                "Relevance": 0
+            },
+            {
+                "Document": "The effects of two osmolytes, sarcosine and sorbitol, were studied for their ability to stabilize hemoglobin against heat-induced dissociation followed by aggregation [55].",
+                "Paper ID": "cccc8ae2701c8d2e468bf04a000cabb298488496>5234a8b5ddf196c9535247de7544b2aa92a5e562",
+                "Relevance": 0
+            },
+            {
+                "Document": "The string matching approaches in [8], [10], and [4], were denoted as bit_split, ex_bit_split, and infix, respectively.",
+                "Paper ID": "026b7cae6eb1dfa570ddc4100135ff7b5023b6de>0b29c289bc5f0fa7e51090d1ad00654754b68b94",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Postulated mechanisms for observed effects of lipid emulsions on lipid soluble drug toxicity include creation of an intravascular lipid phase acting either as a drug depot or a conduit to metabolism or redistribution [5\u201310].",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "In addition, a lipid decontamination algorithm using a regularized reconstruction according to Bilgic et al (53) was performed, and the lipid contamination was again compared for all data sets.",
+                "Paper ID": "77939c86169b2cfdd9c5d8f80185799226ce598b>83dd54598e6cd3f74af97aa510200d71b8d13095",
+                "Relevance": 1
+            },
+            {
+                "Document": "The membrane fluorescence and lipid fluidity of cells were measured in accordance with the method described by Shinitzky and Inbar [30, 31].",
+                "Paper ID": "6f1e96543f3685f6b6982a3af89ef4710d577a6a>7ee854d334193313eab30f772c5bbbfc5b89cf13",
+                "Relevance": 1
+            },
+            {
+                "Document": "To determine the significance of the change from baseline of each lipid species, subclass, and class during the postprandial period (for dairy or soy meals) we performed the nonparametric Friedman test on the plasma concentration values and corrected for multiple comparisons by using the Benjamini-Hochberg method (23).",
+                "Paper ID": "c4774361bb1cc53af6eed4c8cea30b5b541bfe86>9512f52337338232e1ed692748d9f069398ca545",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "The results in the measure of superoxide dismutase are also contradictory, with an increase (Reddy et al., 1991; Zhang et al., 2003), decrease (Mukerjee et al., 1996; Ranjekar et al., 2003) or no change (Yao et al., 1998a) in enzyme activity in patients with schizophrenia.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Also, in the light of studies (Mazza et al., 2001; Bosco et al., 2009a) to the effect that the deficit of mindreading in patients with schizophrenia affects certain components of ToM more heavily than others, we expected in AUD, but not in control subjects, that: (d) Second-order ToM would be more\u2026",
+                "Paper ID": "9184109d9f2b9815b82004e1d6f8353318d19412>9d6aaf1a9388496c3b0ae42f74af16ba532ec0f2",
+                "Relevance": 1
+            },
+            {
+                "Document": "S1P also regulated ERK activity in several types of the cells including smooth muscle cells (Pyne et al., 1996) and osteoblasts (Kozawa et al., 1997) in addition to 3T3 fibroblasts (Wu et al., 1995; Blakesley et al., 1997; Rani et al., 1997).",
+                "Paper ID": "f0d5faceb34cd07c8192d9c7ea2887555017b5d3>992cad315b7976deb297dbfa203ad53c5c30db41",
+                "Relevance": 0
+            },
+            {
+                "Document": "Furthermore, MMP-2 and -9 are expressed and secreted by astrocytes (Gottschall et al., 1995; Muir et al., 2002) and induced in the presence of A (Deb and Gottschall, 1996; Deb et al., 2003).",
+                "Paper ID": "52ed413df89f7cc433837d7f8240a053cf55cf04>e9c9086c815d917deede2295ef41eb5b61ff4645",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Different concentrations of OA and specific protein phosphatase inhibitors can be used to determine the relative contributions of specific protein phosphatase activities (see also Douglas et al, 2001).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "As a result, MEK protein, like the MAPK family of proteins, may comprise a family of enzymes regulated by a variety of stimuli and in different cell types (5, 10); (/>) disorders of phosphatase(s) that negatively regulate MAPK activity may exist.",
+                "Paper ID": "3236304ccc08771361e7459e431da419b0392c8e>d903f2fd136e6cd08e2e7d8f565a16c496626026",
+                "Relevance": 1
+            },
+            {
+                "Document": "Neurabins I and II also inhibit the phosphorylase phosphatase activity of PP1c (1, 32, 33).",
+                "Paper ID": "f92ee4af334b6218ccc8dcc45bcc96af59c190a6>aa3d7a72f3ad9fd00cb9b8e683968489cff824cd",
+                "Relevance": 0
+            },
+            {
+                "Document": "Furthermore, Ang II, the dominant effector peptide of the RAS, reduces the mRNA expression of osteocalcin (a protein specifically expressed during maturation of osteoblastic cells) and decreases the activity of alkaline phosphatase (a marker of osteoblastic differentiation) via its receptor AT1 (36).",
+                "Paper ID": "985e74ce268fbc30e0b86599e5e9ee391c39d5a6>25c287c5180650bbc40c0d485f0aacce9f33516e",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "\u2026will require more conditions than the ones formulated in Theorem 6.1, but it provides more flexibility: Problem PTDR can be solved for the total ring of fractions Q (E) by exploiting the existing summation algorithms for \u2217-field extensions (Karr, 1981; Schneider, 2004, 2005a, 2007a, 2008, 2015).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "\u2026depth (Schneider, 2005a, 2008, 2010c), by minimizing the number of sums arising within the summand (Schneider, 2004, 2015), or minimizing the degree of the sums and products arising in the summands and multiplicands (Abramov, 1975; Paule, 1995; Schneider, 2005b, 2007a; Abramov and Petkov\u0161ek, 2010).",
+                "Paper ID": "21c44db71f8965dd970ffa23bcda403fdb306aba>7fa4f05dd489b6dd03065069f660c89328337e18",
+                "Relevance": 1
+            },
+            {
+                "Document": "\u2026to Zeilberger (1990), Chyzak (2000) and Koutschan (2013) for the holonomic approach, to Wilf and Zeilberger (1992), Wegschaider (1997) and Apagodu and Zeilberger (2006) for the multi-sum approach, or to Schneider (2005a, 2008, 2010c, 2015) for further refinements of the difference field approach.",
+                "Paper ID": "21c44db71f8965dd970ffa23bcda403fdb306aba>7fa4f05dd489b6dd03065069f660c89328337e18",
+                "Relevance": 1
+            },
+            {
+                "Document": "\u2026(1994), Abramov and Zima (1996), Bronstein (2000), Schneider (2001, 2005c), simplifying the solutions by our advanced telescoping algorithms (Schneider, 2005a, 2008, 2010c, 2015) and taking the first 4 initial values of S(n) produces\nS(n)= (\u22121)n n\u2211\ni=1\n(\u22123)i i\n\u2212 (\u22121)n n\u2211\ni=1\n(\u22121)i i\n+ 3n\u2026",
+                "Paper ID": "21c44db71f8965dd970ffa23bcda403fdb306aba>7fa4f05dd489b6dd03065069f660c89328337e18",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Networks: We test with four publicly available networks1,2, including Inception-v3 (Szegedy et al., 2016), ResNet-v2 (He et al., 2016b) of 101 layers, Inception-ResNet-v2 (Szegedy et al., 2017), and ens-adv-Inception-ResNet-v2 which applies the ensemble adversarial training (Trame\u0300r et al., 2017) on Inception-ResNet-v2.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Deciding what to ask and how is an indicator of machine understanding (Mostafazadeh et al., 2016), as demonstrated in machine comprehension (Du et al., 2017; Zhou et al., 2017b; Yuan et al., 2017) and question answering (Tang et al., 2017; Wang et al., 2017).",
+                "Paper ID": "48bff8eae05fb5369b0026742eaa79178e107fbb>bc6ad001c395e92920839e45dfd7e05ce69405d2",
+                "Relevance": 0
+            },
+            {
+                "Document": ", 2016), as demonstrated in machine comprehension (Du et al., 2017; Zhou et al., 2017b; Yuan et al., 2017) and question answering (Tang et al.",
+                "Paper ID": "48bff8eae05fb5369b0026742eaa79178e107fbb>bc6ad001c395e92920839e45dfd7e05ce69405d2",
+                "Relevance": 0
+            },
+            {
+                "Document": "\u20262010; Heilman and Smith, 2010), slotfilling with question templates (Popowich and Winne, 2013; Chali and Golestanirad, 2016; Labutov et al., 2015), or implicitly modeled by recent neural models(Du et al., 2017; Zhou et al., 2017b; Yuan et al., 2017; Song et al., 2017; Subramanian et al., 2017).",
+                "Paper ID": "48bff8eae05fb5369b0026742eaa79178e107fbb>bc6ad001c395e92920839e45dfd7e05ce69405d2",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "There is an agreement that LUTSs should be promptly recognized and appropriately managed in MS patients: subjects complaining UD should be suitably investigated, according to the guidelines produced by scientific societies and experts [2, 6, 11\u201314].",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "Since the elements of the p \u221a\u00f3 p coefficient matrix in VAR model should be estimated and determined whether they are zero or not, we use Lasso for sparse learning like BSSMVAR.",
+                "Paper ID": "5c0adf4e8d00cc88dd8df006da051c5cdd75968e>d050c9d868f1fbe705b0922db9e829b32f7ad39c",
+                "Relevance": 1
+            },
+            {
+                "Document": "Using\nthe classification system of Zhan et al. [13], the medications listed in Table 1 were further categorized into three groups: medications 1) that should always be avoided (barbiturates, flurazepam, meprobamate, chlorpropamide, meperidine, pentazocine, trimethobenzamide, belladonna alkaloids, dicyclomine, hyoscyamine, propantheline), 2) that are rarely appropriate (chlordiazepoxide, diazepam, propoxyphene, carisoprodol, chlorzoxazone, cyclobenzaprine, metaxalone, methocarbamol) and 3) that have some indications but are often misused (amitriptyline, doxepin, indomethacin, dipyridamole, ticlopidine, methyldopa, reserpine, disopyramide, oxybutynin, chlorpheniramine, cyproheptadine, diphenhydramine, hydroxyzine, promethazine).",
+                "Paper ID": "4401ec0c8461f0d4ee1df4a09cd0fd6a3a025fb3>51073ac5a294372f2caa810da41bb3926bc8544c",
+                "Relevance": 0
+            },
+            {
+                "Document": "There are two main streams of works and methods that can be listed: 1) exact algorithms on tree graphs [28, 29, 24, 21, 12], 2) ad hoc heuristics approaches without any guarantee for general graphs [27, 24, 23].",
+                "Paper ID": "1a2114515c8aee2fb46a56fbffba0f2285570d02>72716e49b923a84db430e100feb7f6cb975f3302",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "1 gene knocked out were born alive but died of severe septicemia within 48 h [13] due to multiple hematopoietic aberrations, since they lacked mature B cells, circulating monocytes, and tissue macrophages, including microglial cells [13].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Acting via specific receptors, serotonin inhibits the activity of immune cells, including macrophages [14, 24].",
+                "Paper ID": "aff0922376803e25b2dbbfa9e461e295dc5e9230>5b1643f1259acbc8174f98750e0c6085eb991e6d",
+                "Relevance": 0
+            },
+            {
+                "Document": "In normal cells, the principal role of Ku proteins is to mediate DNA repair, but they are also implicated in many other cellular processes, including telomere maintenance, anti-apoptosis, tumor suppression, and regulation of specific gene transcription [10-13], cell cycle control and DNA replication [14-19].",
+                "Paper ID": "e599a397966b360e0fcc161bad53ae7d5e39fd15>456b38056eda107a5d144fbd7c1cc587f4b940ee",
+                "Relevance": 0
+            },
+            {
+                "Document": "Furthermore, curcumin has been shown to be a potent immunomodulatory agent that can modulate the activation of T cells, B cells, macrophages, neutrophils, natural killer cells, and dendritic cells (Allam 2009).",
+                "Paper ID": "af0fea7198d70421a86e0fa65e31bcc56803de5a>2aa72b69b444808c7537f57fae6e711a6726595c",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "(2001) and Moreira et al. (2008) have previously shown more isoamyl acetate production in coinoculation of S.",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "More suitable analyses have therefore been proposed, including growth curve analysis (Magnuson et al. 2007) and mixed-effects (logistic) regression (Barr 2008; Huettig et al. 2011).",
+                "Paper ID": "b3b12fcedf7dabf9e0c8824f61530b27bc92be29>6bec728af37bb8cd5601c00195fa0744c1db3927",
+                "Relevance": 1
+            },
+            {
+                "Document": "More information about the samples and recruitment can be found in Jacob et al. (2003) and Duncan et al. (2008).",
+                "Paper ID": "7537d04a2d50b34694dcd6cf5ba0730a80aac153>31cb3b94389060ce5096d0167b7c9382f6f62a06",
+                "Relevance": 0
+            },
+            {
+                "Document": "The methods used were Maximum Entropy (MAXENT; Phillips et al. 2006, 2008), Genetic Algorithm for Rule Set Production (GARP; Stockwell and Noble 1992) and Mahalanobis distances (Farber and Kadmon 2003).",
+                "Paper ID": "dbd506dc5faefed54be505c5ffe9b1d1298181f4>8b31bd4880c38f0b7eb422004745b85d3d2625ac",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "A highly-conserved region (Ala95 to Trp116 in case of human NQO1) was observed in the eukaryote NQO1 family (Chen et al., 2000).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "5B), but, interestingly, they shared conserved residues that are most notably found in the NQO1 family of eukaryotes (Chen et al., 2000; Faig et al, 2000).",
+                "Paper ID": "87711ffc684b0f1d1ad6c22518b78105d68fc5f3>a3a859fa3fbb1fae7a1d7ac563a7efe37273a2f8",
+                "Relevance": 1
+            },
+            {
+                "Document": "Gln105 of human NQO1 is an especially important residue for catalytic activity (Chen et al., 2000).",
+                "Paper ID": "87711ffc684b0f1d1ad6c22518b78105d68fc5f3>a3a859fa3fbb1fae7a1d7ac563a7efe37273a2f8",
+                "Relevance": 1
+            },
+            {
+                "Document": "Gln105 of human NQO1 is an\nespecially important residue for catalytic activity (Chen et al., 2000).",
+                "Paper ID": "87711ffc684b0f1d1ad6c22518b78105d68fc5f3>a3a859fa3fbb1fae7a1d7ac563a7efe37273a2f8",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Diagnosis of ASD was confirmed in all subjects by the Autism Diagnostic Interview-Revised (ADI-R) (Le Couteur et al. 1993) and the Autism Diagnostic Observation Schedules (ADOS) (Lord et al. 2003).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Dizzinesslightheadedness (Jansen and Lipsitz 1995) or sleepiness (Vloet et al. 2005) is the most frequent clinical presentation; however, severe PPH has also been associated with syncope (Lipsitz et al. 1986) and falls (Puisieux et al. 2000; Le Couteur et al. 2003).",
+                "Paper ID": "3874a1098d1e34b107a9c4ba1a1e200070de15b0>7d253f083d75e9cba4af91751451b379fb5c37a3",
+                "Relevance": 0
+            },
+            {
+                "Document": "The reported normal range for GFAP (95% of all healthy subjects) is\\0.3 ng/ml\n(Missler et al. 1999) and for NSE B 13 ng/ml (Bremnes et al. 2003).",
+                "Paper ID": "6fc5ac6855c8abd22c2146b3e37fa3c6cfd2c211>a447f82f235cbd165a8c23848f1390755dace24f",
+                "Relevance": 1
+            },
+            {
+                "Document": "6 See for example studies of Morocco by Haddad and Harrison (1993); Venezuela by Aitken and Harrison (1999); Bulgaria and Romania by Konings (2000); Russia by Yudaeva et al. (2003); the Czech Republic by Kosova (2004); and China by Abraham, Konings and Slootmaekers (2006). In the Chinese case, Abraham, Konings and Slootmaekers (2006) find positive horizontal spillovers for certain types of firms.",
+                "Paper ID": "5f94a64d4d62b3df1a5cc9e9a9cc7877fd41ac07>678e84713fdd4677117b339aa36b466b9a877614",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "= Localization of AtVDACs tagged with GFP in yeast cells The yeast voltage-dependent anion channel, ScVDAC1 is known to be an outer mitochondrial membrane protein (Lee et al., 1998).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "The potential for BCL-xL to modulate other channels in the outer mitochondrial membrane is suggested by the finding that BCL-xL regulates the open state of the mitochondrial voltage-dependent anion channel (VDAC) in synthetic membranes (Degterev et al., 2001; Vander Heiden et al., 2001).",
+                "Paper ID": "27db8d3a2c85cbc34deef51ce4cd850b431b4b34>a81b383bf01b572d28e1566650d938a6fe414e57",
+                "Relevance": 1
+            },
+            {
+                "Document": "The length of yeast telomeres is regulated by the duplex telomeric DNA binding protein Rap1p (reviewed by Shore, 1994).",
+                "Paper ID": "c4882db0b324cc2899f348e8793bed03ef00cd9a>b6d6cb6e5486262882ba5442e989da0a460a09b3",
+                "Relevance": 1
+            },
+            {
+                "Document": "Work with non-neuronal cells has suggested that BCL-xL regulates the flux of metabolites across the outer mitochondrial membrane to facilitate transport of ATP into the cytosol after a death stimulus (Vander Heiden et al., 2000, 2001).",
+                "Paper ID": "27db8d3a2c85cbc34deef51ce4cd850b431b4b34>a81b383bf01b572d28e1566650d938a6fe414e57",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Our results are consistent with some [37\u201339] but not all [40], studies of neighborhood effects on mental health in general populations.",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "In this review, 8 studies [2,17-23] addressed the practice and perception of Ramadan fasting and 15 studies [21-35] reported on the metabolic effects of Ramadan fasting on maternal health in healthy pregnant women.",
+                "Paper ID": "5ba35b32fbd5fadaa10df97b87df75eaa2203923>fd4e86ba764f50dcefd4d57bb489a7f2c169e137",
+                "Relevance": 1
+            },
+            {
+                "Document": "There was a review of why patients may not participate in telehealth research, but this was in relation to telehealth studies in general, rather than RCTs specifically [4].",
+                "Paper ID": "d13a6ddb8564712723cde3383bf3945ab805bee1>e817ae639ba2aab62172146638a78a84f8736de1",
+                "Relevance": 0
+            },
+            {
+                "Document": "In fact, some scholars have considered young people\u2019s conviction that they can resolve their mental health problems on their own to be a barrier to seeking professional help [13,30,31].",
+                "Paper ID": "77647808642e554582c2da08217be429785ba2ae>3a1c3cf7218b01b639a2dbf44a49a7d9305081b9",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "Bcl-2 family proteins play a critical role in the decision of the cell to die or survive by acting at multiple levels with a prompt impact on caspase activation [25,26].",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "The variables selected for the regression analyses were those that correlated significantly with serum FGF21 or FFAs and those that have been shown to be associated with plasma levels of these proteins [4,9].",
+                "Paper ID": "e81c08f3ecfea163dd367295d9d2f26606def50e>04310cb8c815b888c4c7fa26b5ffa7fb6baa657c",
+                "Relevance": 1
+            },
+            {
+                "Document": "This is achieved by initializing the preference vector with the expression levels of the genes in the bicluster at each particular time point and diffuse them using a random walk based on the heat kernel rank, recently shown to perform better in comparison to PageRank [32].",
+                "Paper ID": "907e6fb07541147e183ff627a9ac295d5be0850f>e9fa7e93d2f4e958cde16c6cf9d5bc966f8e7ffc",
+                "Relevance": 0
+            },
+            {
+                "Document": "ACTIVATION OF TRANSCRIPTION FACTORS Roles for several transcription factors have been demonstrated in TLR activation, including AP-1-binding proteins (such as cjun and c-fos) and NF-\u03baB (Akira, 2009; Kawai and Akira, 2010) and some of these have been implicated in TLR signaling in the mast cell.",
+                "Paper ID": "4ec9b89857c0b27e8a4bd3745b7358f387773527>81affdba19e38e2b17cf7b9e93792cc2028cf21d",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "On the contrary, our results in Madagascar are in agreement with the Kenya study which suggests that the difference in mortality in ICU settings and their centre at Kilifi is based on the lack of ICU support [17,19,46].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "In view of the results in rats and humans showing the FFA dependency of GSIS in the prolonged fasting state (18, 19, 42, 43) plus the very low fasting FFA levels caused by glucoseinduced hyperinsulinemia in the control group in Boden\u2019s study, it is possible that this condition favored a maintenance of the difference between their heparinIntralipid study vs.",
+                "Paper ID": "1dc1e184d4a954cf080eb77d782cd5ad1baaac85>db5a525bae429c03089570acac1e1d336552da96",
+                "Relevance": 1
+            },
+            {
+                "Document": "Although there were significant structural and functional differences among hydro-geomorphic habitats, the lack of temporal replication in the present study means that the\nresults need to be interpreted with caution inherent in studies that lack temporal replication (Oksanen, 2001).",
+                "Paper ID": "6d32abfcf9aa3e84567fab17cd50eee8d3a40d2b>e9f0e288fc5d9acf36e00ff5348ea85a86dc576f",
+                "Relevance": 0
+            },
+            {
+                "Document": "26 Finally, Gillingham and Tsvetanov (2017) provide support for their assumption of static demand using data on purchases and a consumer survey in the residential solar market in Connecticut, in the United States.",
+                "Paper ID": "2bc41c1556884d73206abcb0f0c3812e4bef205b>d91ae7f9c252cc67980a19231970ee249fcbd92e",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Accumulating reports support that HLA class I alleles are important in the pathogenesis of infection-induced tumors [5,7,8].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Gastrointestinal stromal tumors (GISTs) are uncommon tumors that develop in the wall of the gastrointestinal tract and usually present in the fifth to seventh decade of life [1,2].",
+                "Paper ID": "586340da84022480b3855ffd8a95489f8c618228>89056a119a9d07f3f2538cabc721eca4506cc95b",
+                "Relevance": 0
+            },
+            {
+                "Document": "Methodological issues are important in the assessment of [Ca(21)]i and [Mg(21)]i in fluorescent dye-loaded cells (18, 19).",
+                "Paper ID": "a67c354e045f7c099c66238ae7b4b1fb74e77989>72cfe9cd8e489d04dfb617a2a226c2e4bb45430d",
+                "Relevance": 0
+            },
+            {
+                "Document": "Experimental evidence and clinical observations support the concept that these molecules participate in the pathogenesis of organ injury and that their blood levels correlate with severity of illness and outcome (5, 6).",
+                "Paper ID": "72d74312803531e5fc40ab60a5a39a34dc47c62f>5acd2a40f72024f9e0ee899e78639a924f816128",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "The FNKQ was modified by the researcher (MCA) in accordance with suggestions by Devlin and Belski (2015), with select items removed, reworded, and added to better reflect contemporary nutrition terminology and recommendations and to improve item relevance.",
+        "Predicted label": "method",
+        "Retrieved docs": [
+            {
+                "Document": "\u2026solutions with the algorithms from Abramov (1989), Petkov\u0161ek (1992), Abramov and Petkov\u0161ek (1994), Abramov and Zima (1996), Bronstein (2000), Schneider (2001, 2005c), simplifying the solutions by our advanced telescoping algorithms (Schneider, 2005a, 2008, 2010c, 2015) and taking the first\u2026",
+                "Paper ID": "21c44db71f8965dd970ffa23bcda403fdb306aba>7fa4f05dd489b6dd03065069f660c89328337e18",
+                "Relevance": 1
+            },
+            {
+                "Document": "Specifically, the autonomous vehicle segmentation dataset KITTI (Ros et al. 2015) is used, augmented with 49 additional train images by (Kundu et al. 2014), leading to 149 train and 46 test images, and the CamVid dataset (Brostow, Fauqueur, and Cipolla 2009), split into 525 train and 175 test\u2026",
+                "Paper ID": "06fb6be00b43ea9426f9fedb5bd819d3623c2f63>005cb5959175e4501dd5ddc96a22780788a9b219",
+                "Relevance": 0
+            },
+            {
+                "Document": "Stimuli The stimulus figures were the random polygons originally developed by Attneave and Arnoult (1956) and modified by Cooper (1975; Cooper & Podgorny, 1976), with examples shown in Figure 1.",
+                "Paper ID": "370ea6fa2996966b665e24dfa9d5ad8671e4261b>bbdd4b687760d61ba697b51598dc91c371d0e98f",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "In contrast, HSCs were freshly isolated from BM of normal B6 mice based on dual-dye efflux and HSC markers [41].",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "Recent progresses have identified several novel surface markers, which can distinguish LSCs from normal HSCs, such as CD44 [15], CD123 [16], CLL-1 [17], TIM-1 [18], CD96 [19], CD47 [20].",
+                "Paper ID": "e213f171fcdac25f70387b0efd5f6bd07d9c13ca>d908d0d287065bad1a8e10ca0022f90b8689f18a",
+                "Relevance": 1
+            },
+            {
+                "Document": "Finally, the role of MMPs in fibrogenesis is complicated by their apparent role in both the resolution of liver fibrosis, in which MMPs promote ECM degradation, and their role in clearance of fibroblastic HSCs (9, 22, 23, 41).",
+                "Paper ID": "90035b851c3188631381152ccca60eda115d097d>29ee9bfca7e49df36cf3e76c6054948901da9370",
+                "Relevance": 0
+            },
+            {
+                "Document": ", and other skin commensals were considered contaminants when isolated from only one set of BCs [19] and in the absence of clinical and/or laboratory data suggesting their pathogenic role.",
+                "Paper ID": "71d0e7a76201803cf7f0b66bb220eb8a5f1515aa>9835c225c87e5a8bb5e98e497985ce9134065481",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "In addition, deletion of HDAC1 in mouse embryo displays significant reduction in the number of proliferating cells (Lagger et al., 2002).",
+        "Predicted label": "background",
+        "Retrieved docs": [
+            {
+                "Document": "The mechanism of action probably relates, at least in part, to up regulation of the cyclin kinase inhibitor p21WAF1/CIP1 in HDAC1 null cells (Lagger et al., 2002).",
+                "Paper ID": "ac98889274074aaffe68806613f94400764cc392>e79c496d57be7fd821df67996a40c5579ed81450",
+                "Relevance": 1
+            },
+            {
+                "Document": "Moreover HDAC1 is not crucial for enzymatic function of HDAC2 in embryonic stem cells, however overexpression of HDAC2 cannot compensate for the loss of HDAC1 (Lagger et al., 2002).",
+                "Paper ID": "ac98889274074aaffe68806613f94400764cc392>e79c496d57be7fd821df67996a40c5579ed81450",
+                "Relevance": 1
+            },
+            {
+                "Document": "Mcl-1 deletion invariably results in apoptosis of na\u00efve T cells (Opferman et al., 2003), which precludes experiments to assess the cell survival-independent roles of Mcl-1 in T cells.",
+                "Paper ID": "e3450e8ca6d743f04a1ad41297ab59eeb82299b4>b5fcda6fd9a47d7ef14b8e3e8c80c00fde1b990a",
+                "Relevance": 0
+            }
+        ]
+    },
+    {
+        "Query": "Expression analysis of AtOGG1 during seed development and germination\nA previous study has indicated that AtOGG1 was found in various tissues including roots, stems, leaves, and especially flowers (Garcia-Ortiz et al., 2001).",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "A moderate level of CB1-immunoreactivity was found in the lateral and basomedial nucleus, which is coherent with previous results (McDonald and Mascagni, 2001; Katona et al, 2001).",
+                "Paper ID": "f18469d32ef2171dd84460d77dff220de0f0abd5>7984c29ac78a0eeea4e2ffea3f63a88664c2d9d3",
+                "Relevance": 0
+            },
+            {
+                "Document": "Our results clearly demonstrated that PjPORB gene expression was subjected to leaf developmental control; and they were basically consistent with previous observations that PORB was strongly expressed early in seedling development, especially in seedling de-etiolation, and that its mRNA levels remained detectable in older seedlings and adult plants (Armstrong et al. 1995; Oosawa et al. 2000; Su et al. 2001; Frick et al. 2003).",
+                "Paper ID": "1edc7af9eaa7fe9da79f0605652cfd4443a0cad4>34be3ccc2ba9343126638a5df3f7dea6e42fe9a4",
+                "Relevance": 1
+            },
+            {
+                "Document": "In general, results were consistent with any of the following possibilities: (1) language delays in ASD are not a result of implicit learning deficits; other research has proposed a variety of alternative mechanisms for atypical and delayed language development in ASD, including, for example atypically developed joint attention (Charman 2003), and poor motor control (Gernsbacher et al.",
+                "Paper ID": "9bca76d106b380c17373ea55729e11715f852f39>b3961e28a6b01d022615e8a64a61b297c78f9201",
+                "Relevance": 1
+            }
+        ]
+    },
+    {
+        "Query": "In Equation (13), the values used for nmchla 675\u2032 , nmchla 700\u2032 , and nmchla 650\u2032 were as reported by Morel et al. [14], and the values for nmwatera 675 and nmwatera 700 were adopted from Smith [16].",
+        "Predicted label": "result",
+        "Retrieved docs": [
+            {
+                "Document": "The participants tested in the present study were comparable to similar groups of older men tested in our laboratory; the sVO2p values in the full step (44 \u00b1 11 s), which are greater than those generally reported for healthy younger adults (*20\u201330 s) (DeLorey et al. 2004; Gurd et al. 2006, 2008; Murias et al. 2010), are similar to pretraining values recently reported (43 \u00b1 11 s) by Murias et al. (2010) in a study of older men of the same age and fitness (age, 68 \u00b1 7 years, VO2peak, 2.",
+                "Paper ID": "5531489b306ee0ea25e858d738489fa551fbb555>b5022c9b8d6a58556aa1458eb3703e49e1dc7d0e",
+                "Relevance": 1
+            },
+            {
+                "Document": "Except for some parameter values, the game studied by Schneider and Kube is similar to the individual wage treatment in Abeler et al. (2010).",
+                "Paper ID": "10dd055d4276a7c2f17192717a22d824783c48cb>0d10e553c0a46e7384b3c34dc45bb063843a8300",
+                "Relevance": 0
+            },
+            {
+                "Document": "The finding that BMI is closely related to TBF and PBF derived from DXA is compatible with several previous investigations in children over a wide age range and in adults (7, 13, 14, 16, 22, 24, 30, 32, 36).",
+                "Paper ID": "8a1dcd51cabbd95bf7212a42a8fc5bae5d6b65e1>668c6321b924dc59c2fccf8328f4dde13906ebe1",
+                "Relevance": 0
+            }
+        ]
+    }
+]

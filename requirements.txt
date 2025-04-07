@@ -9,3 +9,4 @@ wandb
 torch
 transformers
 imblearn
+openai
