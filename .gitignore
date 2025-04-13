@@ -3,3 +3,4 @@ __pycache__/
 scicite_preprocessed/*
 experiments/wandb/*
 glove.6B
+model
