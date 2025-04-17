@@ -1,13 +1,13 @@
-# CS4248-NLP-Project
+# Intent-Aware Citation Classification and Paper Retrieval System
 
 ## Installation
 ```
 pip install -r requirements.txt
 ```
 
-## Notebooks
+## File/Folder Structure
 1. [Exploratory Data Analysis](./eda.ipynb)
 
-2. [Data preprocessing and Feature Extraction](./preprocess.ipynb)
+2. [Data preprocessing and Feature Extraction](./preprocessing)
 
-3. [Model Training and Evaluation](./model.ipynb)
+3. [Model Training and Evaluation](./experiments)
